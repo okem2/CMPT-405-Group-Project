@@ -11,6 +11,13 @@ import numpy as np
 import pandas as pn
 import dataPrep
 
+######################
+#imports added by Ian#
+######################
+import geojson
+import plotly.graph_objects as go
+
+
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = ds.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -18,6 +25,31 @@ app = ds.Dash(__name__, external_stylesheets=external_stylesheets)
 # Set up a color dictionary for use within dash components. FFFFFF is pure white, 111111 is pure black
 colors = {'background': '#FFFFFF',
           'text': '#111111'}
+
+
+
+####################
+#files added by Ian#
+####################
+cdf = pn.read_csv("nav2.csv", low_memory=False)
+crimedf = pn.read_csv("finalcrimestats.csv", low_memory=False)
+
+with open('Neighbourhoods.geojson') as f:
+    gj = geojson.load(f)
+
+nbs = pn.read_csv("coenb.csv", low_memory=False)
+nbcodes = nbs['Neighbourhood Number']
+nbnames = nbs['Descriptive Name']
+
+
+fig = go.Figure(go.Choroplethmapbox(geojson=gj, locations=cdf['nnum'],featureidkey="properties.neighbourhood_number",z=cdf['Assessed Value'],colorscale='Blues',colorbar=dict(title='Assessed Value'),marker_opacity=0.5),            
+    layout=dict(mapbox_style='carto-positron', width=1200, height=850, mapbox_zoom=9.7,mapbox_center = {"lat": 53.54551, "lon": -113.49408}))
+
+crimefig = go.Figure(go.Choroplethmapbox(geojson=gj, locations=crimedf['nnum'],featureidkey="properties.neighbourhood_number",z=crimedf['normpermil'],colorscale='Reds',colorbar=dict(title='Crimes per 1000 Residents'),marker_opacity=0.5),            
+    layout=dict(mapbox_style='carto-positron', width=1200, height=850, mapbox_zoom=9.7,mapbox_center = {"lat": 53.54551, "lon": -113.49408}))
+
+
+
 
 
 
@@ -59,15 +91,18 @@ def renderContent(tab):
                             ])
     # HTML code for the assessment view here
     elif tab == 'Assessment View':
-        return ds.html.Div([
+        return ds.html.Div(children=[
+            ds.dcc.Graph(id='choropleth',figure=fig)
 
-        ])
+        ], style={'padding-left': '16vw', 'height': '80vh'})
 
     # HTML code for the crime view here
     elif tab == 'Crime View':
-        return ds.html.Div([
+        return ds.html.Div(children=[
+            ds.dcc.Graph(id='crimechoropleth',figure=crimefig)
 
-        ])
+        ], style={'padding-left': '16vw', 'height': '80vh'})
+        
 
     # HTML code for the recommend view here
     elif tab == 'Recommend View':
@@ -80,6 +115,39 @@ def renderContent(tab):
 # Specific View is pressed. It will call the dataPrep.py generateSpecificData function with
 # the input parameter as the search bar value.
 # This callback connected to the function below it connects the input value with the table.
+
+
+
+@app.callback(
+    ds.Output('choropleth', 'figure'),
+    [ds.Input('choropleth', 'clickData')])
+def update_figure(clickData):    
+    if clickData is not None:            
+        location = clickData['points'][0]['location']
+
+        for i in range(len(nbcodes)):
+            if location == nbcodes[i]:
+                res = nbnames[i]
+
+                app.logger.info(res)
+
+    return res
+
+@app.callback(
+    ds.Output('crimechoropleth', 'figure'),
+    [ds.Input('crimechoropleth', 'clickData')])
+def update_figure(clickData):    
+    if clickData is not None:            
+        location = clickData['points'][0]['location']
+
+        for i in range(len(nbcodes)):
+            if location == nbcodes[i]:
+                res = nbnames[i]
+
+                app.logger.info(res)
+
+    return res
+
 
 
 @app.callback(
