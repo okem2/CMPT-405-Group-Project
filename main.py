@@ -98,7 +98,6 @@ app.layout = ds.html.Div(children=[ds.html.H1(style={'textAlign': 'center',
                                     ds.dcc.Input(id='salInput', placeholder='Salary Amount', type='number', style={'width': '35%', 'marginRight':'10px'}),
                                     ds.html.Button(id='searchSal', n_clicks=0, children='Submit'),
                                     ds.html.Br(),ds.html.Br(),
-                                    ds.html.Table([ds.html.Tr([ds.html.Td('Your Occupation'), ds.html.Td(id='oName')])]),
                                     ds.dash_table.DataTable(
                                         id='salTable'
                                     ),
