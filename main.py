@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pn
 import dataPrep
 import dash_bootstrap_components as dbc
-import plotly_express as px
+import plotly.express as px
 
 ######################
 # imports added by Ian#
@@ -50,16 +50,25 @@ fig = go.Figure(go.Choroplethmapbox(geojson=gj, locations=cdf['nnum'], featureid
 crimefig = go.Figure(go.Choroplethmapbox(geojson=gj, locations=crimedf['nnum'],featureidkey="properties.neighbourhood_number",z=crimedf['normpermil'],colorscale='Reds',colorbar=dict(title='Crimes per 1000 Residents'),marker_opacity=0.5, hovertext='Neighbourhood: ' + cdf['descname']),
     layout=dict(mapbox_style='carto-positron', width=600, height=525, mapbox_zoom=8.9, mapbox_center = {"lat": 53.54551, "lon": -113.49408}))
 
+########
+# Files added by Keyanna
+########
+
+grad_sal = pn.read_csv("grad-data-trim.csv")
+drop_sal = grad_sal.groupby(["Field of Study (2-digit CIP code)"])["Median Income"].mean().reset_index()
+
+app.title = 'RealEdmonton'
 
 app.layout = ds.html.Div(children=[ds.html.H1(style={'textAlign': 'center',
                                 'color': colors['text']}, children='RealEdmonton: Housing Made Easy'),
                                 ds.html.Br(),
                                 ds.html.Br(),
+                                ds.html.H2("Specifics"),
                                 ds.html.Div([
                                 ds.html.Div([
-                                "Input: ", ds.dcc.Input(id='searchInput', value='Neighbourhood Name...', type='text'),
+                                "Input: ", ds.dcc.Input(id='searchInput', placeholder='Neighbourhood Name...', type='text'),
                                 ds.html.Button(id='search-state', n_clicks=0, children='Search'),
-                                ds.html.Br(), ds.html.Table([ds.html.Tr([ds.html.Td('Neighbourhood Name:'), ds.html.Td(id='nName')]),
+                                ds.html.Br(),ds.html.Br(), ds.html.Table([ds.html.Tr([ds.html.Td('Neighbourhood Name:'), ds.html.Td(id='nName')]),
                                                         ds.html.Tr([ds.html.Td('# of Properties:'), ds.html.Td(id='count')]),
                                                         ds.html.Tr([ds.html.Td('Smallest Assessment Value:'), ds.html.Td(id='min')]),
                                                         ds.html.Tr([ds.html.Td('Largest Assessment Value:'), ds.html.Td(id='max')]),
@@ -69,17 +78,72 @@ app.layout = ds.html.Div(children=[ds.html.H1(style={'textAlign': 'center',
                                                         ],style={'padding':'200px'})]),
                                 ds.dcc.Graph(id='crimeGraph', figure=crimeSpecificFig, style={'justify-content':'right'})
                                 ], style={'display':'flex'}),
-                                ds.html.Div([ds.dcc.Graph(id='choropleth', figure=fig, clickData=None),
-                                ds.dcc.Graph(id='crimechoropleth', figure=crimefig)], style={'display':'flex', 'padding-left:':'0px', 'margin':'0px'})
+                                ds.html.Div([
+                                    ds.html.H2("Assessment Data"),
+                                    ds.dcc.Graph(id='choropleth', figure=fig, clickData=None, style={'display': 'inline-block'}),
+                                    ds.html.H2("Crime Data"),
+                                    ds.dcc.Graph(id='crimechoropleth', figure=crimefig)], 
+                                    style={'display':'flex','padding-left:':'0px', 'margin':'0px'}
+                                    ),
+                                ds.html.H2("Recommendations"),
+                                ds.html.Div([
+                                    ds.dcc.Dropdown(
+                                        id='dropdown',
+                                        options=[{'label': r, 'value': r} for r in list(drop_sal.loc[:,"Field of Study (2-digit CIP code)"].unique())],
+                                        value='a',
+                                        placeholder='Occupation',
+                                        style={'width': '60%', 'marginRight':'10px'}
+                                    ), 
+                                    "    or    ",
+                                    ds.dcc.Input(id='salInput', placeholder='Salary Amount', type='number', style={'width': '35%', 'marginRight':'10px'}),
+                                    ds.html.Button(id='searchSal', n_clicks=0, children='Submit'),
+                                    ds.html.Br(),ds.html.Br(),
+                                    ds.html.Table([ds.html.Tr([ds.html.Td('Your Occupation'), ds.html.Td(id='oName')])]),
+                                    ds.dash_table.DataTable(
+                                        id='salTable'
+                                    ),
+                                    ds.html.Br(),ds.html.Br()
+                                    
+                                ])
                                                                                   ])
 
+def affordability(salary):
+    top_mortgage = salary * 2.25
+    top_house = (top_mortgage*25)/0.8
+    return top_house
+
+def get_salary(name):
+    occupation = drop_sal[drop_sal['Field of Study (2-digit CIP code)'] == str(name)]
+    salary = occupation["Median Income"]
+    print('Salary:',salary)
+    return int(salary)
+
+@app.callback(
+    ds.Output('salTable', 'data'),
+    ds.Output('salTable', 'columns'),
+    ds.Input('searchSal', 'n_clicks'),
+    ds.State("dropdown", 'value'),
+    ds.State('salInput', 'value'),
+    prevent_initial_call=True
+)
+def update_salary(n_clicks, value, value2):
+    if value is not None:
+        sal = get_salary(value)
+        maxhouse = affordability(int(sal))
+        df = cdf.loc[(cdf['Assessed Value']< maxhouse), ['Neighbourhood', 'Assessed Value']]
+        return df.to_dict('records'), [{'name': i, 'id':i} for i in df.columns]
+    elif value2 is not None:
+        maxhouse = affordability(int(value2))
+        df = cdf.loc[(cdf['Assessed Value']< maxhouse), ['Neighbourhood', 'Assessed Value']]
+        return df.to_dict('records'), [{'name': i, 'id':i} for i in df.columns]
+    return [{}], []
 
 @app.callback(
     ds.Output(component_id='crimeGraph', component_property='figure'),
     ds.Input(component_id='nName', component_property='children'),
     prevent_initial_call=True
 )
-def updateGraph(name):
+def updateGraph(name): # Updates crime bar chart
     newCount = crimedf[crimedf['nname'] == name].iloc[0, 2]
 
     print(newCount)
@@ -95,7 +159,7 @@ def updateGraph(name):
     ds.Output(component_id='searchInput', component_property='value'),
     ds.Input('choropleth', 'clickData'),
     ds.Input('crimechoropleth', 'clickData'))
-def update_figure(clickData, secondClickData):
+def update_figure(clickData, secondClickData): #Populates search bar when neighbourhood map clicked
     graphTrigger = ds.ctx.triggered_id
     if graphTrigger == 'choropleth':
         if clickData is not None:
@@ -107,6 +171,7 @@ def update_figure(clickData, secondClickData):
 
                     app.logger.info(res)
                     return res
+
         else:
             return None
 
@@ -119,6 +184,7 @@ def update_figure(clickData, secondClickData):
                     res = nbnames[i]
 
                     app.logger.info(res)
+                    ds.dcc.Store(res)
                     return res
         else:
             return None
@@ -136,7 +202,7 @@ def update_figure(clickData, secondClickData):
     ds.State('searchInput', 'value'),
     prevent_initial_call=True
 )
-def update_table(n_clicks, input_value):
+def update_table(n_clicks, input_value): #Updates the assessment data table
     callbackList = dataPrep.generateSpecificData(input_value)
     return callbackList
 

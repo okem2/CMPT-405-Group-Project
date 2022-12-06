@@ -1,0 +1,1608 @@
+﻿Credential,Years After Graduation,Field of Study (2-digit CIP code),Field of Study (4-digit CIP code),Median Income,Cohort Size
+Certificate,1,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,34000.00,40
+Certificate,1,"01. Agriculture, agriculture operations and related sciences",01.02. Agricultural mechanization,39700.00,90
+Certificate,1,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,24400.00,30
+Certificate,1,10. Communications technologies/technicians and support services,10.03. Graphic communications,31300.00,100
+Certificate,1,11. Computer and information sciences and support services,11.02. Computer programming,57400.00,30
+Certificate,1,11. Computer and information sciences and support services,11.08. Computer software and media applications,43200.00,90
+Certificate,1,11. Computer and information sciences and support services,11.09. Computer systems networking and telecommunications,48400.00,70
+Certificate,1,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,44800.00,170
+Certificate,1,12. Personal and culinary services,12.03. Funeral service and mortuary science,51300.00,20
+Certificate,1,12. Personal and culinary services,12.04. Cosmetology and related personal grooming services,24800.00,50
+Certificate,1,12. Personal and culinary services,12.05. Culinary arts and related services,27500.00,310
+Certificate,1,15. Engineering technologies and engineering-related fields,15.03. Electrical and electronic engineering technologies/technicians,52600.00,20
+Certificate,1,15. Engineering technologies and engineering-related fields,15.04. Electromechanical and instrumentation and maintenance technologies/technicians,47800.00,40
+Certificate,1,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,59000.00,180
+Certificate,1,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,43900.00,160
+Certificate,1,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,87200.00,90
+Certificate,1,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,68500.00,70
+Certificate,1,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,50400.00,60
+Certificate,1,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,56300.00,110
+Certificate,1,"16. Aboriginal and foreign languages, literatures and linguistics",16.16. Sign language,30500.00,20
+Certificate,1,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",21300.00,560
+Certificate,1,22. Legal professions and studies,22.03. Legal support services,40200.00,70
+Certificate,1,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",38600.00,30
+Certificate,1,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,35600.00,90
+Certificate,1,43. Security and protective services,43.01. Criminal justice and corrections,43100.00,60
+Certificate,1,43. Security and protective services,43.02. Fire protection,47900.00,630
+Certificate,1,43. Security and protective services,"43.99. Security and protective services, other",46600.00,90
+Certificate,1,46. Construction trades,"46.00. Construction trades, general",33800.00,30
+Certificate,1,46. Construction trades,46.02. Carpentry/carpenter,33300.00,110
+Certificate,1,46. Construction trades,46.03. Electrical and power transmission installers,42100.00,270
+Certificate,1,46. Construction trades,"46.04. Building/construction finishing, management and inspection",16800.00,30
+Certificate,1,46. Construction trades,46.05. Plumbing and related water supply services,41800.00,120
+Certificate,1,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,56100.00,250
+Certificate,1,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,88000.00,1000
+Certificate,1,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,35700.00,570
+Certificate,1,48. Precision production,48.05. Precision metal working,40600.00,240
+Certificate,1,48. Precision production,48.07. Woodworking,35000.00,190
+Certificate,1,49. Transportation and materials moving,49.02. Ground transportation,39300.00,220
+Certificate,1,50. Visual and performing arts,50.04. Design and applied arts,25900.00,70
+Certificate,1,51. Health professions and related programs,51.06. Dental support services and allied professions,42900.00,450
+Certificate,1,51. Health professions and related programs,51.07. Health and medical administrative services,35200.00,1540
+Certificate,1,51. Health professions and related programs,51.08. Allied health and medical assisting services,38000.00,2660
+Certificate,1,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",37900.00,250
+Certificate,1,51. Health professions and related programs,51.15. Mental and social health services and allied professions,43300.00,70
+Certificate,1,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,53100.00,100
+Certificate,1,51. Health professions and related programs,51.26. Health aides/attendants/orderlies,32600.00,3360
+Certificate,1,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",82400.00,320
+Certificate,1,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",47500.00,50
+Certificate,1,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",34400.00,230
+Certificate,1,"52. Business, management, marketing and related support services",52.03. Accounting and related services,41000.00,560
+Certificate,1,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,35400.00,1350
+Certificate,1,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,27900.00,40
+Certificate,1,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,27700.00,50
+Certificate,1,"52. Business, management, marketing and related support services",52.10. Human resources management and services,47900.00,300
+Certificate,1,"52. Business, management, marketing and related support services",52.14. Marketing,32500.00,20
+Certificate,1,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",30900.00,90
+Diploma,1,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,40300.00,80
+Diploma,1,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,37100.00,110
+Diploma,1,"01. Agriculture, agriculture operations and related sciences",01.05. Agricultural and domestic animal services,24500.00,40
+Diploma,1,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,31900.00,120
+Diploma,1,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,33600.00,70
+Diploma,1,"01. Agriculture, agriculture operations and related sciences",01.11. Plant sciences,26400.00,30
+Diploma,1,03. Natural resources and conservation,03.01. Natural resources conservation and research,39900.00,210
+Diploma,1,03. Natural resources and conservation,03.02. Natural resources management and policy,43500.00,240
+Diploma,1,03. Natural resources and conservation,03.05. Forestry,53700.00,70
+Diploma,1,03. Natural resources and conservation,03.06. Wildlife and wildlands science and management,39300.00,30
+Diploma,1,04. Architecture and related services,"04.06. Landscape architecture (BS, BSc, BSLA, BLA, MSLA, MLA, PhD)",43600.00,80
+Diploma,1,04. Architecture and related services,04.09. Architectural sciences and technology,44300.00,620
+Diploma,1,"09. Communication, journalism and related programs",09.04. Journalism,31700.00,280
+Diploma,1,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",35900.00,500
+Diploma,1,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",50200.00,170
+Diploma,1,10. Communications technologies/technicians and support services,10.01. Communications technology/technician,33500.00,120
+Diploma,1,10. Communications technologies/technicians and support services,10.02. Audiovisual communications technologies/technicians,32500.00,170
+Diploma,1,10. Communications technologies/technicians and support services,10.03. Graphic communications,33200.00,190
+Diploma,1,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",42500.00,100
+Diploma,1,11. Computer and information sciences and support services,11.08. Computer software and media applications,38700.00,130
+Diploma,1,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,50000.00,110
+Diploma,1,12. Personal and culinary services,12.05. Culinary arts and related services,31100.00,600
+Diploma,1,13. Education,13.10. Special education and teaching,69400.00,20
+Diploma,1,13. Education,13.15. Teaching assistants/aides,23700.00,60
+Diploma,1,15. Engineering technologies and engineering-related fields,15.02. Civil engineering technology/technician,59800.00,410
+Diploma,1,15. Engineering technologies and engineering-related fields,15.03. Electrical and electronic engineering technologies/technicians,59500.00,600
+Diploma,1,15. Engineering technologies and engineering-related fields,15.04. Electromechanical and instrumentation and maintenance technologies/technicians,66600.00,640
+Diploma,1,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,46800.00,220
+Diploma,1,15. Engineering technologies and engineering-related fields,15.06. Industrial production technologies/technicians,68900.00,50
+Diploma,1,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,67800.00,120
+Diploma,1,15. Engineering technologies and engineering-related fields,15.08. Mechanical engineering related technologies/technicians,55800.00,400
+Diploma,1,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,66700.00,370
+Diploma,1,15. Engineering technologies and engineering-related fields,15.10. Construction engineering technology/technician,63800.00,210
+Diploma,1,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,55900.00,160
+Diploma,1,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,47500.00,520
+Diploma,1,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,49200.00,470
+Diploma,1,15. Engineering technologies and engineering-related fields,"15.99. Engineering technologies and engineering-related fields, other",61000.00,280
+Diploma,1,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",34500.00,670
+Diploma,1,22. Legal professions and studies,22.03. Legal support services,39500.00,590
+Diploma,1,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,37700.00,50
+Diploma,1,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",20100.00,120
+Diploma,1,25. Library science,25.03. Library and archives assisting,34800.00,80
+Diploma,1,25. Library science,"25.99. Library science, other",35700.00,90
+Diploma,1,"31. Parks, recreation, leisure and fitness studies","31.01. Parks, recreation and leisure studies",28300.00,30
+Diploma,1,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,31700.00,240
+Diploma,1,41. Science technologies/technicians,41.01. Biology technician/biotechnology laboratory technician,38000.00,60
+Diploma,1,41. Science technologies/technicians,41.03. Physical science technologies/technicians,46800.00,220
+Diploma,1,43. Security and protective services,43.01. Criminal justice and corrections,42200.00,870
+Diploma,1,43. Security and protective services,43.02. Fire protection,56500.00,30
+Diploma,1,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,74900.00,110
+Diploma,1,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,123700.00,300
+Diploma,1,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,42000.00,420
+Diploma,1,48. Precision production,48.05. Precision metal working,66700.00,50
+Diploma,1,48. Precision production,48.08. Boilermaking/boilermaker,102900.00,170
+Diploma,1,49. Transportation and materials moving,49.01. Air transportation,36600.00,70
+Diploma,1,50. Visual and performing arts,"50.01. Visual, digital and performing arts, general",21500.00,30
+Diploma,1,50. Visual and performing arts,50.04. Design and applied arts,33600.00,560
+Diploma,1,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,20600.00,170
+Diploma,1,50. Visual and performing arts,50.06. Film/video and photographic arts,31000.00,80
+Diploma,1,50. Visual and performing arts,50.09. Music,22400.00,100
+Diploma,1,51. Health professions and related programs,51.02. Communication disorders sciences and services,53100.00,170
+Diploma,1,51. Health professions and related programs,51.06. Dental support services and allied professions,47600.00,170
+Diploma,1,51. Health professions and related programs,51.07. Health and medical administrative services,50700.00,50
+Diploma,1,51. Health professions and related programs,51.08. Allied health and medical assisting services,38200.00,940
+Diploma,1,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",76300.00,1120
+Diploma,1,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,66600.00,400
+Diploma,1,51. Health professions and related programs,51.15. Mental and social health services and allied professions,32800.00,150
+Diploma,1,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,41200.00,400
+Diploma,1,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,41900.00,20
+Diploma,1,51. Health professions and related programs,51.33. Alternative and complementary medicine and medical systems,26200.00,80
+Diploma,1,51. Health professions and related programs,51.35. Somatic bodywork and related therapeutic services,24400.00,90
+Diploma,1,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",75700.00,300
+Diploma,1,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",43900.00,2590
+Diploma,1,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",39900.00,1110
+Diploma,1,"52. Business, management, marketing and related support services",52.03. Accounting and related services,36700.00,1660
+Diploma,1,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,40200.00,270
+Diploma,1,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,38900.00,470
+Diploma,1,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,32400.00,370
+Diploma,1,"52. Business, management, marketing and related support services",52.10. Human resources management and services,45300.00,400
+Diploma,1,"52. Business, management, marketing and related support services",52.14. Marketing,37800.00,660
+Diploma,1,"52. Business, management, marketing and related support services",52.15. Real estate,60700.00,40
+Diploma,1,"52. Business, management, marketing and related support services",52.17. Insurance,50100.00,100
+Diploma,1,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",32500.00,230
+Diploma,1,"52. Business, management, marketing and related support services",52.20. Construction management,56400.00,110
+Diploma,1,"52. Business, management, marketing and related support services","52.99. Business, management, marketing and related support services, other",43300.00,110
+Bachelor's degree,1,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",54300.00,40
+Bachelor's degree,1,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,46200.00,50
+Bachelor's degree,1,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,44000.00,30
+Bachelor's degree,1,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,41200.00,50
+Bachelor's degree,1,03. Natural resources and conservation,03.01. Natural resources conservation and research,50300.00,270
+Bachelor's degree,1,03. Natural resources and conservation,03.02. Natural resources management and policy,58500.00,280
+Bachelor's degree,1,"05. Area, ethnic, cultural, gender, and group studies",05.01. Area studies,31600.00,60
+Bachelor's degree,1,"05. Area, ethnic, cultural, gender, and group studies","05.02. Ethnic, cultural minority, gender, and group studies",32200.00,100
+Bachelor's degree,1,"09. Communication, journalism and related programs",09.01. Communication and media studies,43600.00,500
+Bachelor's degree,1,"09. Communication, journalism and related programs",09.04. Journalism,39000.00,120
+Bachelor's degree,1,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",41700.00,30
+Bachelor's degree,1,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",46800.00,110
+Bachelor's degree,1,10. Communications technologies/technicians and support services,10.03. Graphic communications,41400.00,40
+Bachelor's degree,1,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",60500.00,320
+Bachelor's degree,1,11. Computer and information sciences and support services,11.07. Computer science,55200.00,530
+Bachelor's degree,1,13. Education,"13.01. Education, general",48000.00,200
+Bachelor's degree,1,13. Education,13.05. Educational/instructional media design,79400.00,30
+Bachelor's degree,1,13. Education,"13.12. Teacher education and professional development, specific levels and methods",50500.00,4690
+Bachelor's degree,1,13. Education,"13.13. Teacher education and professional development, specific subject areas",51700.00,2980
+Bachelor's degree,1,14. Engineering,14.05. Bioengineering and biomedical engineering,68100.00,70
+Bachelor's degree,1,14. Engineering,14.07. Chemical engineering,81600.00,740
+Bachelor's degree,1,14. Engineering,14.08. Civil engineering,69300.00,810
+Bachelor's degree,1,14. Engineering,14.09. Computer engineering,59500.00,250
+Bachelor's degree,1,14. Engineering,"14.10. Electrical, electronics and communications engineering",70500.00,700
+Bachelor's degree,1,14. Engineering,14.12. Engineering physics/applied physics,44000.00,40
+Bachelor's degree,1,14. Engineering,14.14. Environmental/environmental health engineering,69600.00,120
+Bachelor's degree,1,14. Engineering,14.18. Materials engineering,74000.00,150
+Bachelor's degree,1,14. Engineering,14.19. Mechanical engineering,75700.00,1160
+Bachelor's degree,1,14. Engineering,14.21. Mining and mineral engineering,91500.00,130
+Bachelor's degree,1,14. Engineering,14.25. Petroleum engineering,89900.00,250
+Bachelor's degree,1,14. Engineering,14.38. Surveying engineering,62800.00,120
+Bachelor's degree,1,15. Engineering technologies and engineering-related fields,15.15. Engineering-related fields,72500.00,120
+Bachelor's degree,1,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",33400.00,90
+Bachelor's degree,1,"16. Aboriginal and foreign languages, literatures and linguistics","16.03. East Asian languages, literatures and linguistics",19800.00,50
+Bachelor's degree,1,"16. Aboriginal and foreign languages, literatures and linguistics","16.09. Romance languages, literatures and linguistics",27000.00,40
+Bachelor's degree,1,"16. Aboriginal and foreign languages, literatures and linguistics","16.12. Classics and classical languages, literatures and linguistics",29900.00,40
+Bachelor's degree,1,19. Family and consumer sciences/human sciences,"19.05. Foods, nutrition and related services",38600.00,110
+Bachelor's degree,1,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",43400.00,220
+Bachelor's degree,1,22. Legal professions and studies,"22.99. Legal professions and studies, other",41700.00,90
+Bachelor's degree,1,23. English language and literature/letters,"23.01. English language and literature, general",32800.00,730
+Bachelor's degree,1,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,42500.00,140
+Bachelor's degree,1,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",42300.00,880
+Bachelor's degree,1,26. Biological and biomedical sciences,"26.01. Biology, general",34800.00,1030
+Bachelor's degree,1,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,31800.00,60
+Bachelor's degree,1,26. Biological and biomedical sciences,26.04. Cell/cellular biology and anatomical sciences,36800.00,80
+Bachelor's degree,1,26. Biological and biomedical sciences,26.05. Microbiological sciences and immunology,41800.00,50
+Bachelor's degree,1,26. Biological and biomedical sciences,26.07. Zoology/animal biology,28800.00,110
+Bachelor's degree,1,26. Biological and biomedical sciences,26.08. Genetics,33600.00,30
+Bachelor's degree,1,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",28600.00,20
+Bachelor's degree,1,26. Biological and biomedical sciences,"26.13. Ecology, evolution, systematics and population biology",41900.00,220
+Bachelor's degree,1,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,33100.00,50
+Bachelor's degree,1,27. Mathematics and statistics,27.01. Mathematics,36300.00,120
+Bachelor's degree,1,27. Mathematics and statistics,27.03. Applied mathematics,37800.00,50
+Bachelor's degree,1,27. Mathematics and statistics,27.05. Statistics,48500.00,20
+Bachelor's degree,1,30. Multidisciplinary/interdisciplinary studies,30.17. Behavioural sciences,33500.00,50
+Bachelor's degree,1,30. Multidisciplinary/interdisciplinary studies,30.18. Natural sciences,45700.00,90
+Bachelor's degree,1,30. Multidisciplinary/interdisciplinary studies,30.19. Nutrition sciences,66200.00,170
+Bachelor's degree,1,30. Multidisciplinary/interdisciplinary studies,"30.99. Multidisciplinary/interdisciplinary studies, other",34500.00,50
+Bachelor's degree,1,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,37400.00,920
+Bachelor's degree,1,38. Philosophy and religious studies,"38.01. Philosophy, logic and ethics",33900.00,130
+Bachelor's degree,1,40. Physical sciences,"40.01. Physical sciences, general",36400.00,40
+Bachelor's degree,1,40. Physical sciences,40.05. Chemistry,42900.00,200
+Bachelor's degree,1,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,61500.00,700
+Bachelor's degree,1,40. Physical sciences,40.08. Physics,39400.00,60
+Bachelor's degree,1,42. Psychology,"42.01. Psychology, general",38000.00,1870
+Bachelor's degree,1,42. Psychology,"42.28. Clinical, counselling and applied psychology",58000.00,60
+Bachelor's degree,1,43. Security and protective services,43.01. Criminal justice and corrections,52600.00,300
+Bachelor's degree,1,43. Security and protective services,"43.99. Security and protective services, other",110800.00,80
+Bachelor's degree,1,44. Public administration and social service professions,"44.00. Human services, general",56200.00,120
+Bachelor's degree,1,44. Public administration and social service professions,44.07. Social work,52000.00,720
+Bachelor's degree,1,45. Social sciences,"45.01. Social sciences, general",34200.00,50
+Bachelor's degree,1,45. Social sciences,45.02. Anthropology,34800.00,300
+Bachelor's degree,1,45. Social sciences,45.03. Archaeology,33100.00,90
+Bachelor's degree,1,45. Social sciences,45.04. Criminology,45000.00,230
+Bachelor's degree,1,45. Social sciences,45.06. Economics,46100.00,660
+Bachelor's degree,1,45. Social sciences,45.07. Geography and cartography,49100.00,250
+Bachelor's degree,1,45. Social sciences,45.09. International relations and national security studies,39400.00,170
+Bachelor's degree,1,45. Social sciences,45.10. Political science and government,37200.00,680
+Bachelor's degree,1,45. Social sciences,45.11. Sociology,39000.00,740
+Bachelor's degree,1,45. Social sciences,45.12. Urban studies/affairs,43900.00,110
+Bachelor's degree,1,50. Visual and performing arts,"50.01. Visual, digital and performing arts, general",31500.00,40
+Bachelor's degree,1,50. Visual and performing arts,50.03. Dance,30200.00,20
+Bachelor's degree,1,50. Visual and performing arts,50.04. Design and applied arts,35000.00,450
+Bachelor's degree,1,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,25200.00,210
+Bachelor's degree,1,50. Visual and performing arts,50.06. Film/video and photographic arts,25000.00,110
+Bachelor's degree,1,50. Visual and performing arts,50.07. Fine arts and art studies,26800.00,600
+Bachelor's degree,1,50. Visual and performing arts,50.09. Music,28000.00,140
+Bachelor's degree,1,51. Health professions and related programs,"51.00. Health services/allied health/health sciences, general",25600.00,40
+Bachelor's degree,1,51. Health professions and related programs,51.06. Dental support services and allied professions,80100.00,140
+Bachelor's degree,1,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",34700.00,30
+Bachelor's degree,1,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,68800.00,90
+Bachelor's degree,1,51. Health professions and related programs,51.15. Mental and social health services and allied professions,45400.00,130
+Bachelor's degree,1,51. Health professions and related programs,51.22. Public health,52100.00,110
+Bachelor's degree,1,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",73800.00,6720
+Bachelor's degree,1,"52. Business, management, marketing and related support services","52.01. Business/commerce, general",50900.00,2280
+Bachelor's degree,1,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",50600.00,2570
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.03. Accounting and related services,49800.00,2660
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.06. Business/managerial economics,44500.00,160
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,52000.00,780
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,36400.00,50
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.10. Human resources management and services,53400.00,720
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.11. International business/trade/commerce,51000.00,400
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.12. Management information systems and services,54700.00,60
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.13. Management sciences and quantitative methods,47800.00,110
+Bachelor's degree,1,"52. Business, management, marketing and related support services",52.14. Marketing,45900.00,670
+Bachelor's degree,1,54. History,54.01. History,35000.00,510
+Bachelor's degree,1,55. French language and literature/lettersCAN,"55.01. French language and literature, generalCAN",39300.00,70
+Professional bachelor's degree,1,22. Legal professions and studies,"22.01. Law (LLB, JD, BCL)",59900.00,1030
+Professional bachelor's degree,1,51. Health professions and related programs,"51.04. Dentistry (DDS, DMD)",38400.00,30
+Professional bachelor's degree,1,51. Health professions and related programs,51.12. Medicine (MD),61700.00,230
+Professional bachelor's degree,1,51. Health professions and related programs,"51.20. Pharmacy, pharmaceutical sciences and administration",105300.00,500
+Professional bachelor's degree,1,51. Health professions and related programs,51.24. Veterinary medicine (DVM),76700.00,40
+Master's degree,1,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",53000.00,60
+Master's degree,1,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,67600.00,20
+Master's degree,1,03. Natural resources and conservation,03.01. Natural resources conservation and research,70800.00,90
+Master's degree,1,04. Architecture and related services,"04.02. Architecture (BArch, BA, BS, BSc, MArch, MA, MS, MSc, PhD)",52600.00,130
+Master's degree,1,04. Architecture and related services,"04.03. City/urban, community and regional planning",65300.00,40
+Master's degree,1,04. Architecture and related services,04.04. Environmental design/architecture,65100.00,30
+Master's degree,1,"09. Communication, journalism and related programs",09.01. Communication and media studies,56800.00,20
+Master's degree,1,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",93700.00,110
+Master's degree,1,11. Computer and information sciences and support services,11.07. Computer science,62700.00,70
+Master's degree,1,13. Education,"13.01. Education, general",100300.00,320
+Master's degree,1,13. Education,13.04. Educational administration and supervision,97800.00,160
+Master's degree,1,13. Education,13.05. Educational/instructional media design,80200.00,100
+Master's degree,1,13. Education,"13.06. Educational assessment, evaluation and research",94800.00,510
+Master's degree,1,13. Education,"13.12. Teacher education and professional development, specific levels and methods",81100.00,170
+Master's degree,1,14. Engineering,14.07. Chemical engineering,89700.00,130
+Master's degree,1,14. Engineering,14.08. Civil engineering,81600.00,370
+Master's degree,1,14. Engineering,"14.10. Electrical, electronics and communications engineering",74300.00,220
+Master's degree,1,14. Engineering,14.18. Materials engineering,85300.00,60
+Master's degree,1,14. Engineering,14.19. Mechanical engineering,86900.00,230
+Master's degree,1,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",31400.00,30
+Master's degree,1,22. Legal professions and studies,22.02. Legal research and advanced professional studies (post-LLB/JD),78600.00,20
+Master's degree,1,23. English language and literature/letters,"23.01. English language and literature, general",38400.00,30
+Master's degree,1,25. Library science,25.01. Library science and administration,53400.00,150
+Master's degree,1,26. Biological and biomedical sciences,"26.01. Biology, general",58600.00,130
+Master's degree,1,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,47400.00,20
+Master's degree,1,26. Biological and biomedical sciences,26.12. Biotechnology,50100.00,30
+Master's degree,1,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,58600.00,70
+Master's degree,1,40. Physical sciences,40.05. Chemistry,55000.00,40
+Master's degree,1,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,88500.00,150
+Master's degree,1,42. Psychology,"42.01. Psychology, general",56800.00,60
+Master's degree,1,42. Psychology,"42.28. Clinical, counselling and applied psychology",61100.00,450
+Master's degree,1,44. Public administration and social service professions,44.07. Social work,69100.00,440
+Master's degree,1,45. Social sciences,45.02. Anthropology,53700.00,40
+Master's degree,1,45. Social sciences,45.06. Economics,70400.00,70
+Master's degree,1,45. Social sciences,45.07. Geography and cartography,56900.00,50
+Master's degree,1,45. Social sciences,45.10. Political science and government,55700.00,50
+Master's degree,1,50. Visual and performing arts,50.04. Design and applied arts,36300.00,30
+Master's degree,1,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,45400.00,20
+Master's degree,1,51. Health professions and related programs,51.02. Communication disorders sciences and services,73400.00,180
+Master's degree,1,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",57000.00,80
+Master's degree,1,51. Health professions and related programs,51.22. Public health,68600.00,230
+Master's degree,1,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,71700.00,560
+Master's degree,1,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",94600.00,940
+Master's degree,1,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",109000.00,1560
+Master's degree,1,"52. Business, management, marketing and related support services",52.12. Management information systems and services,80400.00,50
+Master's degree,1,54. History,54.01. History,37100.00,40
+Doctoral degree,1,03. Natural resources and conservation,03.01. Natural resources conservation and research,38500.00,30
+Doctoral degree,1,11. Computer and information sciences and support services,11.07. Computer science,49000.00,70
+Doctoral degree,1,13. Education,"13.01. Education, general",105200.00,50
+Doctoral degree,1,13. Education,"13.06. Educational assessment, evaluation and research",98300.00,50
+Doctoral degree,1,13. Education,"13.12. Teacher education and professional development, specific levels and methods",67100.00,50
+Doctoral degree,1,14. Engineering,14.07. Chemical engineering,113000.00,30
+Doctoral degree,1,14. Engineering,14.08. Civil engineering,90400.00,110
+Doctoral degree,1,14. Engineering,"14.10. Electrical, electronics and communications engineering",63400.00,130
+Doctoral degree,1,14. Engineering,14.18. Materials engineering,83800.00,70
+Doctoral degree,1,14. Engineering,14.19. Mechanical engineering,63700.00,50
+Doctoral degree,1,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",25500.00,40
+Doctoral degree,1,23. English language and literature/letters,"23.01. English language and literature, general",50800.00,40
+Doctoral degree,1,26. Biological and biomedical sciences,"26.01. Biology, general",31300.00,100
+Doctoral degree,1,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,18300.00,50
+Doctoral degree,1,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",13200.00,40
+Doctoral degree,1,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,16800.00,20
+Doctoral degree,1,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,36400.00,30
+Doctoral degree,1,40. Physical sciences,40.02. Astronomy and astrophysics,52000.00,30
+Doctoral degree,1,40. Physical sciences,40.05. Chemistry,24900.00,140
+Doctoral degree,1,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,49800.00,40
+Doctoral degree,1,40. Physical sciences,40.08. Physics,10300.00,30
+Doctoral degree,1,42. Psychology,"42.01. Psychology, general",61800.00,30
+Doctoral degree,1,42. Psychology,"42.28. Clinical, counselling and applied psychology",72600.00,40
+Doctoral degree,1,44. Public administration and social service professions,44.07. Social work,89900.00,30
+Doctoral degree,1,45. Social sciences,45.11. Sociology,67200.00,40
+Doctoral degree,1,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",27400.00,90
+Doctoral degree,1,51. Health professions and related programs,51.22. Public health,72600.00,50
+Doctoral degree,1,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",98600.00,60
+Doctoral degree,1,54. History,54.01. History,50700.00,30
+Certificate,2,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,39100.00,30
+Certificate,2,"01. Agriculture, agriculture operations and related sciences",01.02. Agricultural mechanization,38700.00,70
+Certificate,2,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,33000.00,40
+Certificate,2,03. Natural resources and conservation,03.01. Natural resources conservation and research,28000.00,20
+Certificate,2,10. Communications technologies/technicians and support services,10.03. Graphic communications,34900.00,100
+Certificate,2,11. Computer and information sciences and support services,11.02. Computer programming,61900.00,30
+Certificate,2,11. Computer and information sciences and support services,11.08. Computer software and media applications,50300.00,90
+Certificate,2,11. Computer and information sciences and support services,11.09. Computer systems networking and telecommunications,50200.00,80
+Certificate,2,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,50200.00,170
+Certificate,2,12. Personal and culinary services,12.03. Funeral service and mortuary science,49100.00,30
+Certificate,2,12. Personal and culinary services,12.04. Cosmetology and related personal grooming services,29400.00,50
+Certificate,2,12. Personal and culinary services,12.05. Culinary arts and related services,30600.00,320
+Certificate,2,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,63500.00,170
+Certificate,2,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,53200.00,150
+Certificate,2,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,82000.00,100
+Certificate,2,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,61200.00,70
+Certificate,2,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,60000.00,70
+Certificate,2,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,58700.00,110
+Certificate,2,"16. Aboriginal and foreign languages, literatures and linguistics",16.16. Sign language,33500.00,20
+Certificate,2,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",21800.00,550
+Certificate,2,22. Legal professions and studies,22.03. Legal support services,40800.00,70
+Certificate,2,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",35700.00,30
+Certificate,2,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,35400.00,100
+Certificate,2,43. Security and protective services,43.01. Criminal justice and corrections,44500.00,60
+Certificate,2,43. Security and protective services,43.02. Fire protection,55800.00,640
+Certificate,2,43. Security and protective services,"43.99. Security and protective services, other",50800.00,90
+Certificate,2,46. Construction trades,46.02. Carpentry/carpenter,36400.00,100
+Certificate,2,46. Construction trades,46.03. Electrical and power transmission installers,43600.00,220
+Certificate,2,46. Construction trades,46.05. Plumbing and related water supply services,43400.00,100
+Certificate,2,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,57700.00,220
+Certificate,2,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,98100.00,1000
+Certificate,2,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,40800.00,520
+Certificate,2,48. Precision production,48.05. Precision metal working,41700.00,220
+Certificate,2,48. Precision production,48.07. Woodworking,39400.00,170
+Certificate,2,49. Transportation and materials moving,49.02. Ground transportation,43700.00,220
+Certificate,2,50. Visual and performing arts,50.04. Design and applied arts,29200.00,80
+Certificate,2,51. Health professions and related programs,51.06. Dental support services and allied professions,44900.00,440
+Certificate,2,51. Health professions and related programs,51.07. Health and medical administrative services,37400.00,1520
+Certificate,2,51. Health professions and related programs,51.08. Allied health and medical assisting services,41900.00,2550
+Certificate,2,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",42000.00,260
+Certificate,2,51. Health professions and related programs,51.15. Mental and social health services and allied professions,36900.00,70
+Certificate,2,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,54300.00,100
+Certificate,2,51. Health professions and related programs,51.26. Health aides/attendants/orderlies,34200.00,3440
+Certificate,2,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",82100.00,320
+Certificate,2,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",46800.00,50
+Certificate,2,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",39600.00,250
+Certificate,2,"52. Business, management, marketing and related support services",52.03. Accounting and related services,43200.00,550
+Certificate,2,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,37300.00,1340
+Certificate,2,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,31500.00,50
+Certificate,2,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,33200.00,50
+Certificate,2,"52. Business, management, marketing and related support services",52.10. Human resources management and services,53800.00,290
+Certificate,2,"52. Business, management, marketing and related support services",52.14. Marketing,33400.00,30
+Certificate,2,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",33600.00,90
+Diploma,2,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,42300.00,80
+Diploma,2,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,36600.00,100
+Diploma,2,"01. Agriculture, agriculture operations and related sciences",01.05. Agricultural and domestic animal services,29200.00,40
+Diploma,2,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,37300.00,150
+Diploma,2,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,37100.00,70
+Diploma,2,"01. Agriculture, agriculture operations and related sciences",01.11. Plant sciences,34600.00,40
+Diploma,2,03. Natural resources and conservation,03.01. Natural resources conservation and research,45400.00,190
+Diploma,2,03. Natural resources and conservation,03.02. Natural resources management and policy,47100.00,250
+Diploma,2,03. Natural resources and conservation,03.05. Forestry,55800.00,80
+Diploma,2,03. Natural resources and conservation,03.06. Wildlife and wildlands science and management,36800.00,20
+Diploma,2,04. Architecture and related services,"04.06. Landscape architecture (BS, BSc, BSLA, BLA, MSLA, MLA, PhD)",50300.00,80
+Diploma,2,04. Architecture and related services,04.09. Architectural sciences and technology,48700.00,600
+Diploma,2,"09. Communication, journalism and related programs",09.04. Journalism,35900.00,270
+Diploma,2,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",40700.00,510
+Diploma,2,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",53000.00,170
+Diploma,2,10. Communications technologies/technicians and support services,10.01. Communications technology/technician,41700.00,110
+Diploma,2,10. Communications technologies/technicians and support services,10.02. Audiovisual communications technologies/technicians,36800.00,170
+Diploma,2,10. Communications technologies/technicians and support services,10.03. Graphic communications,36700.00,200
+Diploma,2,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",55900.00,100
+Diploma,2,11. Computer and information sciences and support services,11.08. Computer software and media applications,48600.00,140
+Diploma,2,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,55100.00,120
+Diploma,2,12. Personal and culinary services,12.05. Culinary arts and related services,33600.00,580
+Diploma,2,13. Education,13.10. Special education and teaching,65400.00,30
+Diploma,2,13. Education,13.15. Teaching assistants/aides,27000.00,40
+Diploma,2,15. Engineering technologies and engineering-related fields,15.02. Civil engineering technology/technician,64800.00,400
+Diploma,2,15. Engineering technologies and engineering-related fields,15.03. Electrical and electronic engineering technologies/technicians,66300.00,570
+Diploma,2,15. Engineering technologies and engineering-related fields,15.04. Electromechanical and instrumentation and maintenance technologies/technicians,73600.00,600
+Diploma,2,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,53000.00,220
+Diploma,2,15. Engineering technologies and engineering-related fields,15.06. Industrial production technologies/technicians,86000.00,50
+Diploma,2,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,73700.00,130
+Diploma,2,15. Engineering technologies and engineering-related fields,15.08. Mechanical engineering related technologies/technicians,60400.00,390
+Diploma,2,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,69400.00,370
+Diploma,2,15. Engineering technologies and engineering-related fields,15.10. Construction engineering technology/technician,70400.00,210
+Diploma,2,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,61100.00,150
+Diploma,2,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,53400.00,520
+Diploma,2,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,53800.00,450
+Diploma,2,15. Engineering technologies and engineering-related fields,"15.99. Engineering technologies and engineering-related fields, other",68000.00,260
+Diploma,2,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",35500.00,660
+Diploma,2,22. Legal professions and studies,22.03. Legal support services,42600.00,580
+Diploma,2,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,34600.00,40
+Diploma,2,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",27200.00,120
+Diploma,2,25. Library science,25.03. Library and archives assisting,36200.00,80
+Diploma,2,25. Library science,"25.99. Library science, other",39000.00,90
+Diploma,2,"31. Parks, recreation, leisure and fitness studies","31.01. Parks, recreation and leisure studies",33000.00,40
+Diploma,2,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,37000.00,260
+Diploma,2,41. Science technologies/technicians,41.01. Biology technician/biotechnology laboratory technician,40700.00,60
+Diploma,2,41. Science technologies/technicians,41.03. Physical science technologies/technicians,51100.00,200
+Diploma,2,43. Security and protective services,43.01. Criminal justice and corrections,46900.00,930
+Diploma,2,43. Security and protective services,43.02. Fire protection,64300.00,30
+Diploma,2,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,81300.00,110
+Diploma,2,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,148000.00,300
+Diploma,2,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,47200.00,410
+Diploma,2,48. Precision production,48.05. Precision metal working,75800.00,60
+Diploma,2,48. Precision production,48.08. Boilermaking/boilermaker,121000.00,180
+Diploma,2,49. Transportation and materials moving,49.01. Air transportation,37500.00,50
+Diploma,2,50. Visual and performing arts,"50.01. Visual, digital and performing arts, general",29000.00,30
+Diploma,2,50. Visual and performing arts,50.04. Design and applied arts,34700.00,540
+Diploma,2,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,27400.00,160
+Diploma,2,50. Visual and performing arts,50.06. Film/video and photographic arts,36500.00,70
+Diploma,2,50. Visual and performing arts,50.09. Music,26400.00,90
+Diploma,2,51. Health professions and related programs,51.02. Communication disorders sciences and services,54200.00,160
+Diploma,2,51. Health professions and related programs,51.06. Dental support services and allied professions,50200.00,170
+Diploma,2,51. Health professions and related programs,51.07. Health and medical administrative services,55100.00,50
+Diploma,2,51. Health professions and related programs,51.08. Allied health and medical assisting services,39500.00,940
+Diploma,2,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",79200.00,1100
+Diploma,2,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,70700.00,380
+Diploma,2,51. Health professions and related programs,51.15. Mental and social health services and allied professions,32600.00,140
+Diploma,2,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,41800.00,400
+Diploma,2,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,42500.00,30
+Diploma,2,51. Health professions and related programs,51.33. Alternative and complementary medicine and medical systems,34200.00,70
+Diploma,2,51. Health professions and related programs,51.35. Somatic bodywork and related therapeutic services,24100.00,80
+Diploma,2,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",76500.00,300
+Diploma,2,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",45100.00,2530
+Diploma,2,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",44200.00,1130
+Diploma,2,"52. Business, management, marketing and related support services",52.03. Accounting and related services,39700.00,1740
+Diploma,2,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,42500.00,290
+Diploma,2,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,42000.00,470
+Diploma,2,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,36300.00,370
+Diploma,2,"52. Business, management, marketing and related support services",52.10. Human resources management and services,48800.00,420
+Diploma,2,"52. Business, management, marketing and related support services",52.14. Marketing,42600.00,680
+Diploma,2,"52. Business, management, marketing and related support services",52.15. Real estate,64600.00,40
+Diploma,2,"52. Business, management, marketing and related support services",52.17. Insurance,53200.00,100
+Diploma,2,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",36000.00,220
+Diploma,2,"52. Business, management, marketing and related support services",52.20. Construction management,65000.00,110
+Diploma,2,"52. Business, management, marketing and related support services","52.99. Business, management, marketing and related support services, other",54300.00,100
+Bachelor's degree,2,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",64300.00,40
+Bachelor's degree,2,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,52900.00,60
+Bachelor's degree,2,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,51700.00,40
+Bachelor's degree,2,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,48200.00,50
+Bachelor's degree,2,03. Natural resources and conservation,03.01. Natural resources conservation and research,56600.00,280
+Bachelor's degree,2,03. Natural resources and conservation,03.02. Natural resources management and policy,64900.00,260
+Bachelor's degree,2,"05. Area, ethnic, cultural, gender, and group studies",05.01. Area studies,39600.00,50
+Bachelor's degree,2,"05. Area, ethnic, cultural, gender, and group studies","05.02. Ethnic, cultural minority, gender, and group studies",38500.00,100
+Bachelor's degree,2,"09. Communication, journalism and related programs",09.01. Communication and media studies,47600.00,490
+Bachelor's degree,2,"09. Communication, journalism and related programs",09.04. Journalism,44000.00,120
+Bachelor's degree,2,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",50900.00,20
+Bachelor's degree,2,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",53900.00,100
+Bachelor's degree,2,10. Communications technologies/technicians and support services,10.03. Graphic communications,42300.00,60
+Bachelor's degree,2,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",65800.00,320
+Bachelor's degree,2,11. Computer and information sciences and support services,11.07. Computer science,59400.00,540
+Bachelor's degree,2,13. Education,"13.01. Education, general",52900.00,210
+Bachelor's degree,2,13. Education,13.05. Educational/instructional media design,78400.00,30
+Bachelor's degree,2,13. Education,"13.12. Teacher education and professional development, specific levels and methods",57100.00,4640
+Bachelor's degree,2,13. Education,"13.13. Teacher education and professional development, specific subject areas",58800.00,2920
+Bachelor's degree,2,14. Engineering,14.05. Bioengineering and biomedical engineering,76700.00,70
+Bachelor's degree,2,14. Engineering,14.07. Chemical engineering,92100.00,720
+Bachelor's degree,2,14. Engineering,14.08. Civil engineering,74900.00,790
+Bachelor's degree,2,14. Engineering,14.09. Computer engineering,63700.00,260
+Bachelor's degree,2,14. Engineering,"14.10. Electrical, electronics and communications engineering",78500.00,710
+Bachelor's degree,2,14. Engineering,14.12. Engineering physics/applied physics,59100.00,40
+Bachelor's degree,2,14. Engineering,14.14. Environmental/environmental health engineering,71300.00,120
+Bachelor's degree,2,14. Engineering,14.18. Materials engineering,82200.00,140
+Bachelor's degree,2,14. Engineering,14.19. Mechanical engineering,85300.00,1150
+Bachelor's degree,2,14. Engineering,14.21. Mining and mineral engineering,104600.00,130
+Bachelor's degree,2,14. Engineering,14.25. Petroleum engineering,104200.00,240
+Bachelor's degree,2,14. Engineering,14.38. Surveying engineering,70100.00,140
+Bachelor's degree,2,15. Engineering technologies and engineering-related fields,15.15. Engineering-related fields,75600.00,110
+Bachelor's degree,2,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",38300.00,100
+Bachelor's degree,2,"16. Aboriginal and foreign languages, literatures and linguistics","16.09. Romance languages, literatures and linguistics",38300.00,50
+Bachelor's degree,2,"16. Aboriginal and foreign languages, literatures and linguistics","16.12. Classics and classical languages, literatures and linguistics",38000.00,30
+Bachelor's degree,2,19. Family and consumer sciences/human sciences,"19.05. Foods, nutrition and related services",40600.00,90
+Bachelor's degree,2,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",44200.00,240
+Bachelor's degree,2,22. Legal professions and studies,"22.99. Legal professions and studies, other",47700.00,70
+Bachelor's degree,2,23. English language and literature/letters,"23.01. English language and literature, general",37600.00,700
+Bachelor's degree,2,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,48100.00,140
+Bachelor's degree,2,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",46900.00,900
+Bachelor's degree,2,26. Biological and biomedical sciences,"26.01. Biology, general",40700.00,920
+Bachelor's degree,2,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,44800.00,40
+Bachelor's degree,2,26. Biological and biomedical sciences,26.04. Cell/cellular biology and anatomical sciences,45800.00,80
+Bachelor's degree,2,26. Biological and biomedical sciences,26.05. Microbiological sciences and immunology,40900.00,50
+Bachelor's degree,2,26. Biological and biomedical sciences,26.07. Zoology/animal biology,38400.00,80
+Bachelor's degree,2,26. Biological and biomedical sciences,26.08. Genetics,43900.00,20
+Bachelor's degree,2,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",30600.00,20
+Bachelor's degree,2,26. Biological and biomedical sciences,"26.13. Ecology, evolution, systematics and population biology",51900.00,200
+Bachelor's degree,2,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,39400.00,50
+Bachelor's degree,2,27. Mathematics and statistics,27.01. Mathematics,45100.00,110
+Bachelor's degree,2,30. Multidisciplinary/interdisciplinary studies,30.17. Behavioural sciences,40000.00,50
+Bachelor's degree,2,30. Multidisciplinary/interdisciplinary studies,30.18. Natural sciences,47600.00,100
+Bachelor's degree,2,30. Multidisciplinary/interdisciplinary studies,30.19. Nutrition sciences,74100.00,180
+Bachelor's degree,2,30. Multidisciplinary/interdisciplinary studies,"30.99. Multidisciplinary/interdisciplinary studies, other",48500.00,20
+Bachelor's degree,2,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,43300.00,850
+Bachelor's degree,2,38. Philosophy and religious studies,"38.01. Philosophy, logic and ethics",35600.00,120
+Bachelor's degree,2,40. Physical sciences,"40.01. Physical sciences, general",55800.00,40
+Bachelor's degree,2,40. Physical sciences,40.05. Chemistry,49000.00,190
+Bachelor's degree,2,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,69900.00,660
+Bachelor's degree,2,40. Physical sciences,40.08. Physics,49100.00,70
+Bachelor's degree,2,42. Psychology,"42.01. Psychology, general",42100.00,1770
+Bachelor's degree,2,42. Psychology,"42.28. Clinical, counselling and applied psychology",64100.00,70
+Bachelor's degree,2,43. Security and protective services,43.01. Criminal justice and corrections,58300.00,290
+Bachelor's degree,2,43. Security and protective services,"43.99. Security and protective services, other",117100.00,80
+Bachelor's degree,2,44. Public administration and social service professions,"44.00. Human services, general",53800.00,120
+Bachelor's degree,2,44. Public administration and social service professions,44.07. Social work,54500.00,660
+Bachelor's degree,2,45. Social sciences,"45.01. Social sciences, general",40100.00,50
+Bachelor's degree,2,45. Social sciences,45.02. Anthropology,41200.00,280
+Bachelor's degree,2,45. Social sciences,45.03. Archaeology,37200.00,90
+Bachelor's degree,2,45. Social sciences,45.04. Criminology,53300.00,230
+Bachelor's degree,2,45. Social sciences,45.06. Economics,51700.00,690
+Bachelor's degree,2,45. Social sciences,45.07. Geography and cartography,55100.00,270
+Bachelor's degree,2,45. Social sciences,45.09. International relations and national security studies,41500.00,160
+Bachelor's degree,2,45. Social sciences,45.10. Political science and government,43000.00,630
+Bachelor's degree,2,45. Social sciences,45.11. Sociology,45700.00,700
+Bachelor's degree,2,45. Social sciences,45.12. Urban studies/affairs,51700.00,90
+Bachelor's degree,2,50. Visual and performing arts,50.04. Design and applied arts,38800.00,440
+Bachelor's degree,2,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,29900.00,190
+Bachelor's degree,2,50. Visual and performing arts,50.06. Film/video and photographic arts,31700.00,110
+Bachelor's degree,2,50. Visual and performing arts,50.07. Fine arts and art studies,31000.00,590
+Bachelor's degree,2,50. Visual and performing arts,50.09. Music,36200.00,120
+Bachelor's degree,2,51. Health professions and related programs,"51.00. Health services/allied health/health sciences, general",44600.00,40
+Bachelor's degree,2,51. Health professions and related programs,51.06. Dental support services and allied professions,79400.00,120
+Bachelor's degree,2,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,73900.00,80
+Bachelor's degree,2,51. Health professions and related programs,51.15. Mental and social health services and allied professions,48600.00,120
+Bachelor's degree,2,51. Health professions and related programs,51.22. Public health,50500.00,110
+Bachelor's degree,2,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",76000.00,6550
+Bachelor's degree,2,"52. Business, management, marketing and related support services","52.01. Business/commerce, general",58800.00,2150
+Bachelor's degree,2,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",55700.00,2410
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.03. Accounting and related services,57500.00,2650
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.06. Business/managerial economics,52100.00,160
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.07. Entrepreneurial and small business operations,51900.00,60
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,59900.00,810
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.10. Human resources management and services,60500.00,690
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.11. International business/trade/commerce,56800.00,380
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.12. Management information systems and services,61300.00,60
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.13. Management sciences and quantitative methods,55000.00,90
+Bachelor's degree,2,"52. Business, management, marketing and related support services",52.14. Marketing,51000.00,680
+Bachelor's degree,2,54. History,54.01. History,40400.00,480
+Bachelor's degree,2,55. French language and literature/lettersCAN,"55.01. French language and literature, generalCAN",44900.00,80
+Professional bachelor's degree,2,22. Legal professions and studies,"22.01. Law (LLB, JD, BCL)",83400.00,1000
+Professional bachelor's degree,2,51. Health professions and related programs,"51.04. Dentistry (DDS, DMD)",3100.00,60
+Professional bachelor's degree,2,51. Health professions and related programs,51.12. Medicine (MD),67200.00,200
+Professional bachelor's degree,2,51. Health professions and related programs,"51.20. Pharmacy, pharmaceutical sciences and administration",106800.00,500
+Professional bachelor's degree,2,51. Health professions and related programs,51.24. Veterinary medicine (DVM),80800.00,40
+Master's degree,2,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",51300.00,50
+Master's degree,2,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,75100.00,30
+Master's degree,2,03. Natural resources and conservation,03.01. Natural resources conservation and research,70000.00,90
+Master's degree,2,04. Architecture and related services,"04.02. Architecture (BArch, BA, BS, BSc, MArch, MA, MS, MSc, PhD)",55400.00,130
+Master's degree,2,04. Architecture and related services,"04.03. City/urban, community and regional planning",70900.00,40
+Master's degree,2,04. Architecture and related services,04.04. Environmental design/architecture,66300.00,30
+Master's degree,2,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",91300.00,110
+Master's degree,2,11. Computer and information sciences and support services,11.07. Computer science,77400.00,70
+Master's degree,2,13. Education,"13.01. Education, general",100900.00,330
+Master's degree,2,13. Education,13.04. Educational administration and supervision,99000.00,150
+Master's degree,2,13. Education,13.05. Educational/instructional media design,85700.00,100
+Master's degree,2,13. Education,"13.06. Educational assessment, evaluation and research",94300.00,520
+Master's degree,2,13. Education,"13.12. Teacher education and professional development, specific levels and methods",87300.00,160
+Master's degree,2,14. Engineering,14.07. Chemical engineering,99700.00,110
+Master's degree,2,14. Engineering,14.08. Civil engineering,85600.00,370
+Master's degree,2,14. Engineering,"14.10. Electrical, electronics and communications engineering",76100.00,210
+Master's degree,2,14. Engineering,14.18. Materials engineering,91000.00,60
+Master's degree,2,14. Engineering,14.19. Mechanical engineering,92000.00,220
+Master's degree,2,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",32700.00,40
+Master's degree,2,22. Legal professions and studies,22.02. Legal research and advanced professional studies (post-LLB/JD),103900.00,20
+Master's degree,2,23. English language and literature/letters,"23.01. English language and literature, general",41200.00,30
+Master's degree,2,25. Library science,25.01. Library science and administration,58100.00,160
+Master's degree,2,26. Biological and biomedical sciences,"26.01. Biology, general",62900.00,130
+Master's degree,2,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,47800.00,20
+Master's degree,2,26. Biological and biomedical sciences,26.12. Biotechnology,49100.00,30
+Master's degree,2,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,43500.00,20
+Master's degree,2,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,64900.00,70
+Master's degree,2,40. Physical sciences,40.05. Chemistry,60900.00,40
+Master's degree,2,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,89200.00,140
+Master's degree,2,42. Psychology,"42.01. Psychology, general",59700.00,50
+Master's degree,2,42. Psychology,"42.28. Clinical, counselling and applied psychology",66000.00,430
+Master's degree,2,44. Public administration and social service professions,44.05. Public policy analysis,68900.00,20
+Master's degree,2,44. Public administration and social service professions,44.07. Social work,69700.00,430
+Master's degree,2,45. Social sciences,45.06. Economics,75800.00,60
+Master's degree,2,45. Social sciences,45.07. Geography and cartography,63500.00,50
+Master's degree,2,45. Social sciences,45.10. Political science and government,62300.00,40
+Master's degree,2,45. Social sciences,45.11. Sociology,59500.00,50
+Master's degree,2,50. Visual and performing arts,50.04. Design and applied arts,36700.00,40
+Master's degree,2,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,43400.00,20
+Master's degree,2,51. Health professions and related programs,51.02. Communication disorders sciences and services,72400.00,160
+Master's degree,2,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",60200.00,90
+Master's degree,2,51. Health professions and related programs,51.22. Public health,72200.00,230
+Master's degree,2,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,72700.00,540
+Master's degree,2,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",95300.00,910
+Master's degree,2,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",113900.00,1530
+Master's degree,2,"52. Business, management, marketing and related support services",52.10. Human resources management and services,84900.00,60
+Master's degree,2,54. History,54.01. History,39800.00,40
+Doctoral degree,2,03. Natural resources and conservation,03.01. Natural resources conservation and research,70900.00,30
+Doctoral degree,2,11. Computer and information sciences and support services,11.07. Computer science,69800.00,70
+Doctoral degree,2,13. Education,"13.01. Education, general",100200.00,40
+Doctoral degree,2,13. Education,"13.06. Educational assessment, evaluation and research",98400.00,30
+Doctoral degree,2,14. Engineering,14.07. Chemical engineering,133900.00,20
+Doctoral degree,2,14. Engineering,14.08. Civil engineering,96600.00,110
+Doctoral degree,2,14. Engineering,"14.10. Electrical, electronics and communications engineering",70600.00,130
+Doctoral degree,2,14. Engineering,14.18. Materials engineering,90600.00,70
+Doctoral degree,2,14. Engineering,14.19. Mechanical engineering,65900.00,50
+Doctoral degree,2,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",18600.00,30
+Doctoral degree,2,23. English language and literature/letters,"23.01. English language and literature, general",43900.00,40
+Doctoral degree,2,26. Biological and biomedical sciences,"26.01. Biology, general",37900.00,90
+Doctoral degree,2,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,31700.00,40
+Doctoral degree,2,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",16900.00,30
+Doctoral degree,2,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,21300.00,30
+Doctoral degree,2,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,49400.00,30
+Doctoral degree,2,40. Physical sciences,40.02. Astronomy and astrophysics,69500.00,30
+Doctoral degree,2,40. Physical sciences,40.05. Chemistry,40200.00,150
+Doctoral degree,2,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,67600.00,40
+Doctoral degree,2,40. Physical sciences,40.08. Physics,55900.00,20
+Doctoral degree,2,42. Psychology,"42.01. Psychology, general",56200.00,50
+Doctoral degree,2,42. Psychology,"42.28. Clinical, counselling and applied psychology",69800.00,40
+Doctoral degree,2,45. Social sciences,45.11. Sociology,74500.00,40
+Doctoral degree,2,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",53000.00,90
+Doctoral degree,2,51. Health professions and related programs,51.22. Public health,89800.00,40
+Doctoral degree,2,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",101600.00,50
+Doctoral degree,2,54. History,54.01. History,53300.00,30
+Certificate,3,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,37800.00,20
+Certificate,3,"01. Agriculture, agriculture operations and related sciences",01.02. Agricultural mechanization,37400.00,60
+Certificate,3,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,31700.00,40
+Certificate,3,10. Communications technologies/technicians and support services,10.03. Graphic communications,35600.00,90
+Certificate,3,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",55300.00,30
+Certificate,3,11. Computer and information sciences and support services,11.08. Computer software and media applications,49500.00,100
+Certificate,3,11. Computer and information sciences and support services,11.09. Computer systems networking and telecommunications,48100.00,80
+Certificate,3,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,53400.00,170
+Certificate,3,12. Personal and culinary services,12.03. Funeral service and mortuary science,56000.00,20
+Certificate,3,12. Personal and culinary services,12.04. Cosmetology and related personal grooming services,25600.00,50
+Certificate,3,12. Personal and culinary services,12.05. Culinary arts and related services,33000.00,300
+Certificate,3,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,62300.00,160
+Certificate,3,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,55100.00,150
+Certificate,3,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,83300.00,100
+Certificate,3,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,55300.00,80
+Certificate,3,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,55000.00,60
+Certificate,3,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,64100.00,100
+Certificate,3,"16. Aboriginal and foreign languages, literatures and linguistics",16.16. Sign language,32800.00,20
+Certificate,3,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",22400.00,530
+Certificate,3,22. Legal professions and studies,22.03. Legal support services,41700.00,70
+Certificate,3,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",39900.00,30
+Certificate,3,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,39100.00,80
+Certificate,3,43. Security and protective services,43.01. Criminal justice and corrections,47300.00,70
+Certificate,3,43. Security and protective services,43.02. Fire protection,62400.00,630
+Certificate,3,43. Security and protective services,"43.99. Security and protective services, other",54700.00,80
+Certificate,3,46. Construction trades,"46.00. Construction trades, general",52300.00,20
+Certificate,3,46. Construction trades,46.02. Carpentry/carpenter,39400.00,110
+Certificate,3,46. Construction trades,46.03. Electrical and power transmission installers,46600.00,220
+Certificate,3,46. Construction trades,"46.04. Building/construction finishing, management and inspection",25000.00,30
+Certificate,3,46. Construction trades,46.05. Plumbing and related water supply services,47800.00,100
+Certificate,3,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,61400.00,210
+Certificate,3,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,100500.00,1010
+Certificate,3,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,43900.00,550
+Certificate,3,48. Precision production,48.05. Precision metal working,41900.00,230
+Certificate,3,48. Precision production,48.07. Woodworking,39900.00,160
+Certificate,3,49. Transportation and materials moving,49.02. Ground transportation,44200.00,220
+Certificate,3,50. Visual and performing arts,50.04. Design and applied arts,24800.00,90
+Certificate,3,50. Visual and performing arts,"50.10. Arts, entertainment, and media management",34800.00,50
+Certificate,3,51. Health professions and related programs,51.06. Dental support services and allied professions,46500.00,420
+Certificate,3,51. Health professions and related programs,51.07. Health and medical administrative services,38300.00,1510
+Certificate,3,51. Health professions and related programs,51.08. Allied health and medical assisting services,42700.00,2550
+Certificate,3,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",42800.00,260
+Certificate,3,51. Health professions and related programs,51.15. Mental and social health services and allied professions,39800.00,60
+Certificate,3,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,53600.00,100
+Certificate,3,51. Health professions and related programs,51.26. Health aides/attendants/orderlies,35200.00,3470
+Certificate,3,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",83100.00,320
+Certificate,3,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",49900.00,70
+Certificate,3,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",40600.00,250
+Certificate,3,"52. Business, management, marketing and related support services",52.03. Accounting and related services,46800.00,570
+Certificate,3,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,37800.00,1320
+Certificate,3,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,32400.00,50
+Certificate,3,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,33400.00,50
+Certificate,3,"52. Business, management, marketing and related support services",52.10. Human resources management and services,52500.00,270
+Certificate,3,"52. Business, management, marketing and related support services",52.14. Marketing,29200.00,30
+Certificate,3,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",36200.00,90
+Diploma,3,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,48400.00,80
+Diploma,3,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,38300.00,100
+Diploma,3,"01. Agriculture, agriculture operations and related sciences",01.05. Agricultural and domestic animal services,34900.00,50
+Diploma,3,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,42400.00,140
+Diploma,3,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,43400.00,70
+Diploma,3,"01. Agriculture, agriculture operations and related sciences",01.11. Plant sciences,26300.00,40
+Diploma,3,03. Natural resources and conservation,03.01. Natural resources conservation and research,48600.00,200
+Diploma,3,03. Natural resources and conservation,03.02. Natural resources management and policy,44500.00,270
+Diploma,3,03. Natural resources and conservation,03.05. Forestry,58900.00,70
+Diploma,3,03. Natural resources and conservation,03.06. Wildlife and wildlands science and management,41000.00,30
+Diploma,3,04. Architecture and related services,"04.06. Landscape architecture (BS, BSc, BSLA, BLA, MSLA, MLA, PhD)",52300.00,80
+Diploma,3,04. Architecture and related services,04.09. Architectural sciences and technology,51100.00,600
+Diploma,3,"09. Communication, journalism and related programs",09.04. Journalism,37500.00,280
+Diploma,3,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",42900.00,510
+Diploma,3,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",54800.00,170
+Diploma,3,10. Communications technologies/technicians and support services,10.01. Communications technology/technician,41700.00,130
+Diploma,3,10. Communications technologies/technicians and support services,10.02. Audiovisual communications technologies/technicians,42100.00,170
+Diploma,3,10. Communications technologies/technicians and support services,10.03. Graphic communications,37800.00,190
+Diploma,3,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",50900.00,90
+Diploma,3,11. Computer and information sciences and support services,11.08. Computer software and media applications,46400.00,140
+Diploma,3,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,59200.00,120
+Diploma,3,12. Personal and culinary services,12.05. Culinary arts and related services,33800.00,580
+Diploma,3,13. Education,13.10. Special education and teaching,75100.00,20
+Diploma,3,13. Education,13.15. Teaching assistants/aides,26400.00,40
+Diploma,3,15. Engineering technologies and engineering-related fields,15.02. Civil engineering technology/technician,65400.00,410
+Diploma,3,15. Engineering technologies and engineering-related fields,15.03. Electrical and electronic engineering technologies/technicians,70700.00,580
+Diploma,3,15. Engineering technologies and engineering-related fields,15.04. Electromechanical and instrumentation and maintenance technologies/technicians,79100.00,600
+Diploma,3,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,57900.00,200
+Diploma,3,15. Engineering technologies and engineering-related fields,15.06. Industrial production technologies/technicians,86900.00,60
+Diploma,3,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,79700.00,120
+Diploma,3,15. Engineering technologies and engineering-related fields,15.08. Mechanical engineering related technologies/technicians,64900.00,380
+Diploma,3,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,74300.00,410
+Diploma,3,15. Engineering technologies and engineering-related fields,15.10. Construction engineering technology/technician,75900.00,220
+Diploma,3,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,65200.00,150
+Diploma,3,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,56000.00,540
+Diploma,3,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,56600.00,440
+Diploma,3,15. Engineering technologies and engineering-related fields,"15.99. Engineering technologies and engineering-related fields, other",69000.00,270
+Diploma,3,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",37200.00,630
+Diploma,3,22. Legal professions and studies,22.03. Legal support services,44100.00,580
+Diploma,3,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,36200.00,50
+Diploma,3,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",28600.00,120
+Diploma,3,25. Library science,25.03. Library and archives assisting,35500.00,90
+Diploma,3,25. Library science,"25.99. Library science, other",42100.00,90
+Diploma,3,"31. Parks, recreation, leisure and fitness studies","31.01. Parks, recreation and leisure studies",28600.00,30
+Diploma,3,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,38400.00,260
+Diploma,3,41. Science technologies/technicians,41.01. Biology technician/biotechnology laboratory technician,40900.00,50
+Diploma,3,41. Science technologies/technicians,41.03. Physical science technologies/technicians,52900.00,220
+Diploma,3,43. Security and protective services,43.01. Criminal justice and corrections,48200.00,940
+Diploma,3,43. Security and protective services,43.02. Fire protection,83500.00,40
+Diploma,3,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,96400.00,100
+Diploma,3,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,162500.00,290
+Diploma,3,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,52300.00,400
+Diploma,3,48. Precision production,48.05. Precision metal working,78700.00,60
+Diploma,3,48. Precision production,48.08. Boilermaking/boilermaker,117500.00,180
+Diploma,3,49. Transportation and materials moving,49.01. Air transportation,43300.00,60
+Diploma,3,50. Visual and performing arts,50.04. Design and applied arts,38700.00,530
+Diploma,3,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,30600.00,140
+Diploma,3,50. Visual and performing arts,50.06. Film/video and photographic arts,36200.00,80
+Diploma,3,50. Visual and performing arts,50.07. Fine arts and art studies,29500.00,50
+Diploma,3,50. Visual and performing arts,50.09. Music,26700.00,90
+Diploma,3,51. Health professions and related programs,51.02. Communication disorders sciences and services,56400.00,180
+Diploma,3,51. Health professions and related programs,51.06. Dental support services and allied professions,49800.00,170
+Diploma,3,51. Health professions and related programs,51.07. Health and medical administrative services,60100.00,50
+Diploma,3,51. Health professions and related programs,51.08. Allied health and medical assisting services,40600.00,900
+Diploma,3,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",81300.00,1100
+Diploma,3,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,73400.00,370
+Diploma,3,51. Health professions and related programs,51.15. Mental and social health services and allied professions,33600.00,140
+Diploma,3,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,43900.00,420
+Diploma,3,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,44700.00,40
+Diploma,3,51. Health professions and related programs,51.33. Alternative and complementary medicine and medical systems,35600.00,70
+Diploma,3,51. Health professions and related programs,51.35. Somatic bodywork and related therapeutic services,23700.00,90
+Diploma,3,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",77500.00,300
+Diploma,3,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",44700.00,2500
+Diploma,3,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",45300.00,1150
+Diploma,3,"52. Business, management, marketing and related support services",52.03. Accounting and related services,41400.00,1790
+Diploma,3,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,45000.00,270
+Diploma,3,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,46300.00,480
+Diploma,3,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,35600.00,380
+Diploma,3,"52. Business, management, marketing and related support services",52.10. Human resources management and services,51000.00,420
+Diploma,3,"52. Business, management, marketing and related support services",52.14. Marketing,46100.00,690
+Diploma,3,"52. Business, management, marketing and related support services",52.15. Real estate,66200.00,30
+Diploma,3,"52. Business, management, marketing and related support services",52.17. Insurance,56200.00,100
+Diploma,3,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",37500.00,210
+Diploma,3,"52. Business, management, marketing and related support services",52.20. Construction management,68800.00,110
+Diploma,3,"52. Business, management, marketing and related support services","52.99. Business, management, marketing and related support services, other",52600.00,110
+Bachelor's degree,3,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",61000.00,50
+Bachelor's degree,3,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,53800.00,60
+Bachelor's degree,3,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,46600.00,30
+Bachelor's degree,3,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,51300.00,50
+Bachelor's degree,3,03. Natural resources and conservation,03.01. Natural resources conservation and research,60600.00,270
+Bachelor's degree,3,03. Natural resources and conservation,03.02. Natural resources management and policy,65000.00,270
+Bachelor's degree,3,"05. Area, ethnic, cultural, gender, and group studies",05.01. Area studies,38800.00,50
+Bachelor's degree,3,"05. Area, ethnic, cultural, gender, and group studies","05.02. Ethnic, cultural minority, gender, and group studies",39900.00,100
+Bachelor's degree,3,"09. Communication, journalism and related programs",09.01. Communication and media studies,52600.00,480
+Bachelor's degree,3,"09. Communication, journalism and related programs",09.04. Journalism,44400.00,120
+Bachelor's degree,3,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",41400.00,30
+Bachelor's degree,3,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",60100.00,110
+Bachelor's degree,3,10. Communications technologies/technicians and support services,10.03. Graphic communications,47700.00,60
+Bachelor's degree,3,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",69800.00,310
+Bachelor's degree,3,11. Computer and information sciences and support services,11.07. Computer science,63100.00,520
+Bachelor's degree,3,13. Education,"13.01. Education, general",56600.00,200
+Bachelor's degree,3,13. Education,"13.02. Bilingual, multilingual and multicultural education",61900.00,20
+Bachelor's degree,3,13. Education,"13.12. Teacher education and professional development, specific levels and methods",61100.00,4510
+Bachelor's degree,3,13. Education,"13.13. Teacher education and professional development, specific subject areas",63100.00,2830
+Bachelor's degree,3,14. Engineering,14.05. Bioengineering and biomedical engineering,89800.00,60
+Bachelor's degree,3,14. Engineering,14.07. Chemical engineering,96600.00,700
+Bachelor's degree,3,14. Engineering,14.08. Civil engineering,78300.00,780
+Bachelor's degree,3,14. Engineering,14.09. Computer engineering,68600.00,250
+Bachelor's degree,3,14. Engineering,"14.10. Electrical, electronics and communications engineering",81900.00,680
+Bachelor's degree,3,14. Engineering,14.12. Engineering physics/applied physics,52800.00,40
+Bachelor's degree,3,14. Engineering,14.14. Environmental/environmental health engineering,78900.00,110
+Bachelor's degree,3,14. Engineering,14.18. Materials engineering,87500.00,130
+Bachelor's degree,3,14. Engineering,14.19. Mechanical engineering,90300.00,1130
+Bachelor's degree,3,14. Engineering,14.21. Mining and mineral engineering,112700.00,110
+Bachelor's degree,3,14. Engineering,14.25. Petroleum engineering,109800.00,230
+Bachelor's degree,3,14. Engineering,14.38. Surveying engineering,73600.00,130
+Bachelor's degree,3,15. Engineering technologies and engineering-related fields,15.15. Engineering-related fields,78700.00,110
+Bachelor's degree,3,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",36300.00,100
+Bachelor's degree,3,"16. Aboriginal and foreign languages, literatures and linguistics","16.09. Romance languages, literatures and linguistics",37700.00,40
+Bachelor's degree,3,"16. Aboriginal and foreign languages, literatures and linguistics","16.12. Classics and classical languages, literatures and linguistics",42400.00,40
+Bachelor's degree,3,19. Family and consumer sciences/human sciences,"19.05. Foods, nutrition and related services",47300.00,90
+Bachelor's degree,3,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",47800.00,230
+Bachelor's degree,3,22. Legal professions and studies,"22.99. Legal professions and studies, other",48700.00,80
+Bachelor's degree,3,23. English language and literature/letters,"23.01. English language and literature, general",40500.00,720
+Bachelor's degree,3,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,52300.00,140
+Bachelor's degree,3,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",49700.00,920
+Bachelor's degree,3,26. Biological and biomedical sciences,"26.01. Biology, general",47300.00,950
+Bachelor's degree,3,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,52800.00,50
+Bachelor's degree,3,26. Biological and biomedical sciences,26.04. Cell/cellular biology and anatomical sciences,48600.00,70
+Bachelor's degree,3,26. Biological and biomedical sciences,26.05. Microbiological sciences and immunology,45600.00,50
+Bachelor's degree,3,26. Biological and biomedical sciences,26.07. Zoology/animal biology,35900.00,90
+Bachelor's degree,3,26. Biological and biomedical sciences,"26.13. Ecology, evolution, systematics and population biology",54800.00,200
+Bachelor's degree,3,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,38600.00,40
+Bachelor's degree,3,27. Mathematics and statistics,27.01. Mathematics,50000.00,120
+Bachelor's degree,3,30. Multidisciplinary/interdisciplinary studies,30.17. Behavioural sciences,39600.00,50
+Bachelor's degree,3,30. Multidisciplinary/interdisciplinary studies,30.18. Natural sciences,47700.00,90
+Bachelor's degree,3,30. Multidisciplinary/interdisciplinary studies,30.19. Nutrition sciences,75800.00,180
+Bachelor's degree,3,30. Multidisciplinary/interdisciplinary studies,"30.99. Multidisciplinary/interdisciplinary studies, other",48300.00,40
+Bachelor's degree,3,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,48200.00,880
+Bachelor's degree,3,38. Philosophy and religious studies,"38.01. Philosophy, logic and ethics",40600.00,110
+Bachelor's degree,3,40. Physical sciences,"40.01. Physical sciences, general",55600.00,30
+Bachelor's degree,3,40. Physical sciences,40.05. Chemistry,54700.00,190
+Bachelor's degree,3,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,70600.00,660
+Bachelor's degree,3,40. Physical sciences,40.08. Physics,50300.00,70
+Bachelor's degree,3,42. Psychology,"42.01. Psychology, general",44800.00,1750
+Bachelor's degree,3,42. Psychology,"42.28. Clinical, counselling and applied psychology",70800.00,60
+Bachelor's degree,3,43. Security and protective services,43.01. Criminal justice and corrections,59400.00,300
+Bachelor's degree,3,43. Security and protective services,"43.99. Security and protective services, other",124100.00,90
+Bachelor's degree,3,44. Public administration and social service professions,"44.00. Human services, general",57600.00,120
+Bachelor's degree,3,44. Public administration and social service professions,44.07. Social work,55200.00,610
+Bachelor's degree,3,45. Social sciences,"45.01. Social sciences, general",41800.00,60
+Bachelor's degree,3,45. Social sciences,45.02. Anthropology,42200.00,280
+Bachelor's degree,3,45. Social sciences,45.03. Archaeology,39400.00,100
+Bachelor's degree,3,45. Social sciences,45.04. Criminology,57400.00,220
+Bachelor's degree,3,45. Social sciences,45.06. Economics,56300.00,690
+Bachelor's degree,3,45. Social sciences,45.07. Geography and cartography,58300.00,260
+Bachelor's degree,3,45. Social sciences,45.09. International relations and national security studies,48600.00,140
+Bachelor's degree,3,45. Social sciences,45.10. Political science and government,47700.00,640
+Bachelor's degree,3,45. Social sciences,45.11. Sociology,48800.00,710
+Bachelor's degree,3,45. Social sciences,45.12. Urban studies/affairs,58900.00,100
+Bachelor's degree,3,50. Visual and performing arts,"50.01. Visual, digital and performing arts, general",42800.00,40
+Bachelor's degree,3,50. Visual and performing arts,50.03. Dance,24400.00,20
+Bachelor's degree,3,50. Visual and performing arts,50.04. Design and applied arts,40500.00,420
+Bachelor's degree,3,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,33700.00,210
+Bachelor's degree,3,50. Visual and performing arts,50.06. Film/video and photographic arts,30000.00,100
+Bachelor's degree,3,50. Visual and performing arts,50.07. Fine arts and art studies,33900.00,570
+Bachelor's degree,3,50. Visual and performing arts,50.09. Music,37800.00,130
+Bachelor's degree,3,51. Health professions and related programs,"51.00. Health services/allied health/health sciences, general",51500.00,30
+Bachelor's degree,3,51. Health professions and related programs,51.06. Dental support services and allied professions,82700.00,130
+Bachelor's degree,3,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,76500.00,80
+Bachelor's degree,3,51. Health professions and related programs,51.15. Mental and social health services and allied professions,52700.00,110
+Bachelor's degree,3,51. Health professions and related programs,51.22. Public health,61700.00,100
+Bachelor's degree,3,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",77600.00,6500
+Bachelor's degree,3,"52. Business, management, marketing and related support services","52.01. Business/commerce, general",66900.00,2210
+Bachelor's degree,3,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",58400.00,2360
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.03. Accounting and related services,65800.00,2750
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.06. Business/managerial economics,55800.00,150
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.07. Entrepreneurial and small business operations,53800.00,60
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,66400.00,800
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,46600.00,50
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.10. Human resources management and services,62900.00,660
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.11. International business/trade/commerce,60000.00,370
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.13. Management sciences and quantitative methods,60600.00,110
+Bachelor's degree,3,"52. Business, management, marketing and related support services",52.14. Marketing,56800.00,650
+Bachelor's degree,3,54. History,54.01. History,44700.00,520
+Bachelor's degree,3,55. French language and literature/lettersCAN,"55.01. French language and literature, generalCAN",51700.00,80
+Professional bachelor's degree,3,22. Legal professions and studies,"22.01. Law (LLB, JD, BCL)",93100.00,970
+Professional bachelor's degree,3,51. Health professions and related programs,"51.04. Dentistry (DDS, DMD)",6700.00,80
+Professional bachelor's degree,3,51. Health professions and related programs,51.12. Medicine (MD),69400.00,190
+Professional bachelor's degree,3,51. Health professions and related programs,"51.20. Pharmacy, pharmaceutical sciences and administration",106900.00,460
+Professional bachelor's degree,3,51. Health professions and related programs,51.24. Veterinary medicine (DVM),84300.00,40
+Master's degree,3,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",58700.00,50
+Master's degree,3,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,79700.00,20
+Master's degree,3,03. Natural resources and conservation,03.01. Natural resources conservation and research,74700.00,80
+Master's degree,3,04. Architecture and related services,"04.02. Architecture (BArch, BA, BS, BSc, MArch, MA, MS, MSc, PhD)",58100.00,140
+Master's degree,3,04. Architecture and related services,"04.03. City/urban, community and regional planning",71900.00,50
+Master's degree,3,04. Architecture and related services,04.04. Environmental design/architecture,67400.00,30
+Master's degree,3,"09. Communication, journalism and related programs",09.01. Communication and media studies,96100.00,30
+Master's degree,3,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",92700.00,110
+Master's degree,3,11. Computer and information sciences and support services,11.07. Computer science,79800.00,70
+Master's degree,3,13. Education,"13.01. Education, general",101700.00,310
+Master's degree,3,13. Education,13.04. Educational administration and supervision,100400.00,150
+Master's degree,3,13. Education,13.05. Educational/instructional media design,83000.00,110
+Master's degree,3,13. Education,"13.06. Educational assessment, evaluation and research",97400.00,500
+Master's degree,3,13. Education,"13.12. Teacher education and professional development, specific levels and methods",86900.00,170
+Master's degree,3,14. Engineering,14.07. Chemical engineering,98900.00,110
+Master's degree,3,14. Engineering,14.08. Civil engineering,88600.00,370
+Master's degree,3,14. Engineering,"14.10. Electrical, electronics and communications engineering",81300.00,220
+Master's degree,3,14. Engineering,14.18. Materials engineering,92700.00,50
+Master's degree,3,14. Engineering,14.19. Mechanical engineering,97100.00,220
+Master's degree,3,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",31400.00,20
+Master's degree,3,22. Legal professions and studies,22.02. Legal research and advanced professional studies (post-LLB/JD),99600.00,30
+Master's degree,3,23. English language and literature/letters,"23.01. English language and literature, general",41600.00,50
+Master's degree,3,25. Library science,25.01. Library science and administration,58100.00,160
+Master's degree,3,26. Biological and biomedical sciences,"26.01. Biology, general",60200.00,130
+Master's degree,3,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,53500.00,30
+Master's degree,3,26. Biological and biomedical sciences,26.12. Biotechnology,49000.00,20
+Master's degree,3,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,30900.00,20
+Master's degree,3,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,67300.00,70
+Master's degree,3,40. Physical sciences,40.05. Chemistry,60700.00,40
+Master's degree,3,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,88600.00,130
+Master's degree,3,42. Psychology,"42.01. Psychology, general",61700.00,60
+Master's degree,3,42. Psychology,"42.28. Clinical, counselling and applied psychology",66900.00,420
+Master's degree,3,44. Public administration and social service professions,44.07. Social work,74400.00,420
+Master's degree,3,45. Social sciences,45.06. Economics,84500.00,60
+Master's degree,3,45. Social sciences,45.07. Geography and cartography,62900.00,40
+Master's degree,3,45. Social sciences,45.10. Political science and government,66800.00,50
+Master's degree,3,45. Social sciences,45.11. Sociology,62900.00,40
+Master's degree,3,50. Visual and performing arts,50.04. Design and applied arts,44100.00,30
+Master's degree,3,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,45200.00,20
+Master's degree,3,51. Health professions and related programs,51.02. Communication disorders sciences and services,72800.00,140
+Master's degree,3,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",55100.00,90
+Master's degree,3,51. Health professions and related programs,51.22. Public health,74900.00,220
+Master's degree,3,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,73000.00,540
+Master's degree,3,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",94200.00,920
+Master's degree,3,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",114500.00,1530
+Master's degree,3,"52. Business, management, marketing and related support services",52.10. Human resources management and services,79600.00,60
+Master's degree,3,54. History,54.01. History,46200.00,40
+Doctoral degree,3,03. Natural resources and conservation,03.01. Natural resources conservation and research,75100.00,30
+Doctoral degree,3,11. Computer and information sciences and support services,11.07. Computer science,70200.00,60
+Doctoral degree,3,13. Education,"13.01. Education, general",99900.00,40
+Doctoral degree,3,13. Education,"13.06. Educational assessment, evaluation and research",94900.00,40
+Doctoral degree,3,13. Education,"13.12. Teacher education and professional development, specific levels and methods",91700.00,40
+Doctoral degree,3,14. Engineering,14.07. Chemical engineering,125900.00,20
+Doctoral degree,3,14. Engineering,14.08. Civil engineering,97700.00,110
+Doctoral degree,3,14. Engineering,"14.10. Electrical, electronics and communications engineering",80100.00,130
+Doctoral degree,3,14. Engineering,14.18. Materials engineering,91000.00,60
+Doctoral degree,3,14. Engineering,14.19. Mechanical engineering,75600.00,40
+Doctoral degree,3,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",33000.00,40
+Doctoral degree,3,23. English language and literature/letters,"23.01. English language and literature, general",54300.00,30
+Doctoral degree,3,26. Biological and biomedical sciences,"26.01. Biology, general",47800.00,90
+Doctoral degree,3,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,36000.00,40
+Doctoral degree,3,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",57000.00,30
+Doctoral degree,3,27. Mathematics and statistics,27.05. Statistics,78600.00,30
+Doctoral degree,3,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,72700.00,40
+Doctoral degree,3,40. Physical sciences,40.02. Astronomy and astrophysics,71400.00,30
+Doctoral degree,3,40. Physical sciences,40.05. Chemistry,55600.00,150
+Doctoral degree,3,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,74900.00,40
+Doctoral degree,3,40. Physical sciences,40.08. Physics,20900.00,30
+Doctoral degree,3,42. Psychology,"42.01. Psychology, general",75900.00,30
+Doctoral degree,3,42. Psychology,"42.28. Clinical, counselling and applied psychology",79400.00,40
+Doctoral degree,3,45. Social sciences,45.11. Sociology,78800.00,30
+Doctoral degree,3,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",61500.00,80
+Doctoral degree,3,51. Health professions and related programs,51.22. Public health,93700.00,30
+Doctoral degree,3,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",103600.00,50
+Certificate,4,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,32700.00,20
+Certificate,4,"01. Agriculture, agriculture operations and related sciences",01.02. Agricultural mechanization,39100.00,80
+Certificate,4,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,31100.00,50
+Certificate,4,10. Communications technologies/technicians and support services,10.03. Graphic communications,35600.00,90
+Certificate,4,11. Computer and information sciences and support services,11.02. Computer programming,63200.00,20
+Certificate,4,11. Computer and information sciences and support services,11.08. Computer software and media applications,44000.00,90
+Certificate,4,11. Computer and information sciences and support services,11.09. Computer systems networking and telecommunications,50000.00,80
+Certificate,4,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,52000.00,170
+Certificate,4,12. Personal and culinary services,12.03. Funeral service and mortuary science,52000.00,20
+Certificate,4,12. Personal and culinary services,12.04. Cosmetology and related personal grooming services,21600.00,50
+Certificate,4,12. Personal and culinary services,12.05. Culinary arts and related services,33000.00,300
+Certificate,4,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,67300.00,170
+Certificate,4,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,54800.00,160
+Certificate,4,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,87700.00,90
+Certificate,4,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,54400.00,80
+Certificate,4,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,56400.00,70
+Certificate,4,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,56700.00,100
+Certificate,4,"16. Aboriginal and foreign languages, literatures and linguistics",16.16. Sign language,36400.00,20
+Certificate,4,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",21600.00,510
+Certificate,4,22. Legal professions and studies,22.03. Legal support services,43100.00,70
+Certificate,4,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",43900.00,30
+Certificate,4,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,41900.00,90
+Certificate,4,43. Security and protective services,43.01. Criminal justice and corrections,48800.00,70
+Certificate,4,43. Security and protective services,43.02. Fire protection,64800.00,640
+Certificate,4,43. Security and protective services,"43.99. Security and protective services, other",58500.00,80
+Certificate,4,46. Construction trades,"46.00. Construction trades, general",59500.00,20
+Certificate,4,46. Construction trades,46.02. Carpentry/carpenter,42800.00,110
+Certificate,4,46. Construction trades,46.03. Electrical and power transmission installers,50900.00,290
+Certificate,4,46. Construction trades,"46.04. Building/construction finishing, management and inspection",27300.00,40
+Certificate,4,46. Construction trades,46.05. Plumbing and related water supply services,45700.00,110
+Certificate,4,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,68600.00,240
+Certificate,4,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,99700.00,1010
+Certificate,4,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,46700.00,560
+Certificate,4,48. Precision production,48.05. Precision metal working,43700.00,240
+Certificate,4,48. Precision production,48.07. Woodworking,43700.00,170
+Certificate,4,49. Transportation and materials moving,49.02. Ground transportation,42300.00,220
+Certificate,4,50. Visual and performing arts,50.04. Design and applied arts,28100.00,80
+Certificate,4,51. Health professions and related programs,51.06. Dental support services and allied professions,47600.00,410
+Certificate,4,51. Health professions and related programs,51.07. Health and medical administrative services,38700.00,1520
+Certificate,4,51. Health professions and related programs,51.08. Allied health and medical assisting services,43500.00,2570
+Certificate,4,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",46600.00,250
+Certificate,4,51. Health professions and related programs,51.15. Mental and social health services and allied professions,38100.00,60
+Certificate,4,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,58200.00,100
+Certificate,4,51. Health professions and related programs,51.26. Health aides/attendants/orderlies,36400.00,3580
+Certificate,4,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",82000.00,310
+Certificate,4,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",58300.00,60
+Certificate,4,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",42400.00,240
+Certificate,4,"52. Business, management, marketing and related support services",52.03. Accounting and related services,48000.00,540
+Certificate,4,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,38000.00,1320
+Certificate,4,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,33500.00,50
+Certificate,4,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,34300.00,50
+Certificate,4,"52. Business, management, marketing and related support services",52.10. Human resources management and services,51000.00,270
+Certificate,4,"52. Business, management, marketing and related support services",52.14. Marketing,33700.00,30
+Certificate,4,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",35900.00,90
+Diploma,4,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,50100.00,70
+Diploma,4,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,41800.00,110
+Diploma,4,"01. Agriculture, agriculture operations and related sciences",01.05. Agricultural and domestic animal services,29400.00,40
+Diploma,4,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,45100.00,140
+Diploma,4,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,41700.00,70
+Diploma,4,"01. Agriculture, agriculture operations and related sciences",01.11. Plant sciences,35900.00,40
+Diploma,4,03. Natural resources and conservation,03.01. Natural resources conservation and research,48300.00,210
+Diploma,4,03. Natural resources and conservation,03.02. Natural resources management and policy,43400.00,280
+Diploma,4,03. Natural resources and conservation,03.05. Forestry,63800.00,80
+Diploma,4,03. Natural resources and conservation,03.06. Wildlife and wildlands science and management,44900.00,30
+Diploma,4,04. Architecture and related services,"04.06. Landscape architecture (BS, BSc, BSLA, BLA, MSLA, MLA, PhD)",55400.00,70
+Diploma,4,04. Architecture and related services,04.09. Architectural sciences and technology,53600.00,590
+Diploma,4,"09. Communication, journalism and related programs",09.04. Journalism,37300.00,280
+Diploma,4,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",44700.00,500
+Diploma,4,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",56200.00,170
+Diploma,4,10. Communications technologies/technicians and support services,10.01. Communications technology/technician,43100.00,130
+Diploma,4,10. Communications technologies/technicians and support services,10.02. Audiovisual communications technologies/technicians,40400.00,150
+Diploma,4,10. Communications technologies/technicians and support services,10.03. Graphic communications,38000.00,190
+Diploma,4,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",46700.00,90
+Diploma,4,11. Computer and information sciences and support services,11.08. Computer software and media applications,46400.00,140
+Diploma,4,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,61600.00,120
+Diploma,4,12. Personal and culinary services,12.05. Culinary arts and related services,35600.00,570
+Diploma,4,13. Education,13.10. Special education and teaching,78100.00,20
+Diploma,4,13. Education,13.15. Teaching assistants/aides,21500.00,40
+Diploma,4,15. Engineering technologies and engineering-related fields,15.02. Civil engineering technology/technician,68800.00,430
+Diploma,4,15. Engineering technologies and engineering-related fields,15.03. Electrical and electronic engineering technologies/technicians,73900.00,590
+Diploma,4,15. Engineering technologies and engineering-related fields,15.04. Electromechanical and instrumentation and maintenance technologies/technicians,81500.00,630
+Diploma,4,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,54500.00,200
+Diploma,4,15. Engineering technologies and engineering-related fields,15.06. Industrial production technologies/technicians,85400.00,60
+Diploma,4,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,77500.00,120
+Diploma,4,15. Engineering technologies and engineering-related fields,15.08. Mechanical engineering related technologies/technicians,65700.00,380
+Diploma,4,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,79700.00,410
+Diploma,4,15. Engineering technologies and engineering-related fields,15.10. Construction engineering technology/technician,77500.00,210
+Diploma,4,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,65100.00,150
+Diploma,4,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,58600.00,530
+Diploma,4,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,58800.00,440
+Diploma,4,15. Engineering technologies and engineering-related fields,"15.99. Engineering technologies and engineering-related fields, other",71000.00,260
+Diploma,4,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",34900.00,640
+Diploma,4,22. Legal professions and studies,22.03. Legal support services,45200.00,590
+Diploma,4,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,42400.00,60
+Diploma,4,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",31700.00,130
+Diploma,4,25. Library science,25.03. Library and archives assisting,36100.00,90
+Diploma,4,25. Library science,"25.99. Library science, other",44700.00,80
+Diploma,4,"31. Parks, recreation, leisure and fitness studies","31.01. Parks, recreation and leisure studies",30000.00,30
+Diploma,4,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,42200.00,260
+Diploma,4,41. Science technologies/technicians,41.01. Biology technician/biotechnology laboratory technician,42100.00,50
+Diploma,4,41. Science technologies/technicians,41.03. Physical science technologies/technicians,55700.00,220
+Diploma,4,43. Security and protective services,43.01. Criminal justice and corrections,51100.00,950
+Diploma,4,43. Security and protective services,43.02. Fire protection,91100.00,40
+Diploma,4,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,95200.00,100
+Diploma,4,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,170000.00,300
+Diploma,4,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,54200.00,400
+Diploma,4,48. Precision production,48.05. Precision metal working,81900.00,70
+Diploma,4,48. Precision production,48.08. Boilermaking/boilermaker,132500.00,170
+Diploma,4,49. Transportation and materials moving,49.01. Air transportation,45600.00,60
+Diploma,4,50. Visual and performing arts,50.04. Design and applied arts,40900.00,520
+Diploma,4,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,33700.00,140
+Diploma,4,50. Visual and performing arts,50.06. Film/video and photographic arts,38200.00,80
+Diploma,4,50. Visual and performing arts,50.07. Fine arts and art studies,30900.00,50
+Diploma,4,50. Visual and performing arts,50.09. Music,33100.00,90
+Diploma,4,51. Health professions and related programs,51.02. Communication disorders sciences and services,58400.00,170
+Diploma,4,51. Health professions and related programs,51.06. Dental support services and allied professions,46800.00,160
+Diploma,4,51. Health professions and related programs,51.07. Health and medical administrative services,64300.00,50
+Diploma,4,51. Health professions and related programs,51.08. Allied health and medical assisting services,41000.00,900
+Diploma,4,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",80900.00,1100
+Diploma,4,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,71800.00,380
+Diploma,4,51. Health professions and related programs,51.15. Mental and social health services and allied professions,33600.00,140
+Diploma,4,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,44800.00,440
+Diploma,4,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,42400.00,30
+Diploma,4,51. Health professions and related programs,51.33. Alternative and complementary medicine and medical systems,34800.00,80
+Diploma,4,51. Health professions and related programs,51.35. Somatic bodywork and related therapeutic services,23400.00,100
+Diploma,4,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",75900.00,290
+Diploma,4,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",44600.00,2560
+Diploma,4,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",46100.00,1160
+Diploma,4,"52. Business, management, marketing and related support services",52.03. Accounting and related services,42800.00,1720
+Diploma,4,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,45400.00,260
+Diploma,4,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,49000.00,480
+Diploma,4,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,39200.00,400
+Diploma,4,"52. Business, management, marketing and related support services",52.10. Human resources management and services,52000.00,410
+Diploma,4,"52. Business, management, marketing and related support services",52.14. Marketing,48100.00,690
+Diploma,4,"52. Business, management, marketing and related support services",52.15. Real estate,68800.00,30
+Diploma,4,"52. Business, management, marketing and related support services",52.17. Insurance,56300.00,100
+Diploma,4,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",37700.00,200
+Diploma,4,"52. Business, management, marketing and related support services",52.20. Construction management,67500.00,110
+Diploma,4,"52. Business, management, marketing and related support services","52.99. Business, management, marketing and related support services, other",59700.00,100
+Bachelor's degree,4,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",71900.00,50
+Bachelor's degree,4,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,56500.00,50
+Bachelor's degree,4,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,51800.00,30
+Bachelor's degree,4,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,54700.00,50
+Bachelor's degree,4,03. Natural resources and conservation,03.01. Natural resources conservation and research,61600.00,270
+Bachelor's degree,4,03. Natural resources and conservation,03.02. Natural resources management and policy,67800.00,250
+Bachelor's degree,4,"05. Area, ethnic, cultural, gender, and group studies",05.01. Area studies,37700.00,50
+Bachelor's degree,4,"05. Area, ethnic, cultural, gender, and group studies","05.02. Ethnic, cultural minority, gender, and group studies",45200.00,100
+Bachelor's degree,4,"09. Communication, journalism and related programs",09.01. Communication and media studies,56700.00,470
+Bachelor's degree,4,"09. Communication, journalism and related programs",09.04. Journalism,49800.00,110
+Bachelor's degree,4,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",42500.00,20
+Bachelor's degree,4,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",64000.00,100
+Bachelor's degree,4,10. Communications technologies/technicians and support services,10.03. Graphic communications,46500.00,50
+Bachelor's degree,4,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",72900.00,320
+Bachelor's degree,4,11. Computer and information sciences and support services,11.07. Computer science,68000.00,510
+Bachelor's degree,4,13. Education,"13.01. Education, general",60900.00,220
+Bachelor's degree,4,13. Education,"13.02. Bilingual, multilingual and multicultural education",63000.00,30
+Bachelor's degree,4,13. Education,"13.12. Teacher education and professional development, specific levels and methods",63000.00,4450
+Bachelor's degree,4,13. Education,"13.13. Teacher education and professional development, specific subject areas",65100.00,2760
+Bachelor's degree,4,14. Engineering,14.05. Bioengineering and biomedical engineering,86300.00,50
+Bachelor's degree,4,14. Engineering,14.07. Chemical engineering,100900.00,700
+Bachelor's degree,4,14. Engineering,14.08. Civil engineering,81100.00,770
+Bachelor's degree,4,14. Engineering,14.09. Computer engineering,72000.00,240
+Bachelor's degree,4,14. Engineering,"14.10. Electrical, electronics and communications engineering",83600.00,680
+Bachelor's degree,4,14. Engineering,14.12. Engineering physics/applied physics,74400.00,40
+Bachelor's degree,4,14. Engineering,14.14. Environmental/environmental health engineering,78500.00,110
+Bachelor's degree,4,14. Engineering,14.18. Materials engineering,90300.00,140
+Bachelor's degree,4,14. Engineering,14.19. Mechanical engineering,93100.00,1140
+Bachelor's degree,4,14. Engineering,14.21. Mining and mineral engineering,111400.00,120
+Bachelor's degree,4,14. Engineering,14.25. Petroleum engineering,109000.00,220
+Bachelor's degree,4,14. Engineering,14.38. Surveying engineering,78100.00,130
+Bachelor's degree,4,15. Engineering technologies and engineering-related fields,15.15. Engineering-related fields,82100.00,120
+Bachelor's degree,4,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",46200.00,90
+Bachelor's degree,4,"16. Aboriginal and foreign languages, literatures and linguistics","16.03. East Asian languages, literatures and linguistics",44500.00,40
+Bachelor's degree,4,"16. Aboriginal and foreign languages, literatures and linguistics","16.09. Romance languages, literatures and linguistics",29900.00,50
+Bachelor's degree,4,19. Family and consumer sciences/human sciences,"19.05. Foods, nutrition and related services",53600.00,90
+Bachelor's degree,4,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",47000.00,240
+Bachelor's degree,4,22. Legal professions and studies,"22.99. Legal professions and studies, other",51800.00,80
+Bachelor's degree,4,23. English language and literature/letters,"23.01. English language and literature, general",43400.00,730
+Bachelor's degree,4,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,50700.00,140
+Bachelor's degree,4,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",52900.00,940
+Bachelor's degree,4,26. Biological and biomedical sciences,"26.01. Biology, general",50000.00,1010
+Bachelor's degree,4,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,57100.00,50
+Bachelor's degree,4,26. Biological and biomedical sciences,26.04. Cell/cellular biology and anatomical sciences,49900.00,60
+Bachelor's degree,4,26. Biological and biomedical sciences,26.05. Microbiological sciences and immunology,53700.00,50
+Bachelor's degree,4,26. Biological and biomedical sciences,26.07. Zoology/animal biology,38000.00,80
+Bachelor's degree,4,26. Biological and biomedical sciences,26.08. Genetics,62200.00,30
+Bachelor's degree,4,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",36200.00,20
+Bachelor's degree,4,26. Biological and biomedical sciences,"26.13. Ecology, evolution, systematics and population biology",54900.00,200
+Bachelor's degree,4,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,39100.00,40
+Bachelor's degree,4,27. Mathematics and statistics,27.01. Mathematics,57700.00,110
+Bachelor's degree,4,30. Multidisciplinary/interdisciplinary studies,30.17. Behavioural sciences,42000.00,50
+Bachelor's degree,4,30. Multidisciplinary/interdisciplinary studies,30.18. Natural sciences,57700.00,110
+Bachelor's degree,4,30. Multidisciplinary/interdisciplinary studies,30.19. Nutrition sciences,75100.00,170
+Bachelor's degree,4,30. Multidisciplinary/interdisciplinary studies,"30.99. Multidisciplinary/interdisciplinary studies, other",46300.00,30
+Bachelor's degree,4,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,52400.00,890
+Bachelor's degree,4,38. Philosophy and religious studies,"38.01. Philosophy, logic and ethics",44500.00,130
+Bachelor's degree,4,40. Physical sciences,"40.01. Physical sciences, general",63000.00,40
+Bachelor's degree,4,40. Physical sciences,40.05. Chemistry,54300.00,200
+Bachelor's degree,4,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,70800.00,660
+Bachelor's degree,4,40. Physical sciences,40.08. Physics,54000.00,70
+Bachelor's degree,4,42. Psychology,"42.01. Psychology, general",47400.00,1770
+Bachelor's degree,4,42. Psychology,"42.28. Clinical, counselling and applied psychology",59000.00,60
+Bachelor's degree,4,43. Security and protective services,43.01. Criminal justice and corrections,64800.00,290
+Bachelor's degree,4,43. Security and protective services,"43.99. Security and protective services, other",123400.00,70
+Bachelor's degree,4,44. Public administration and social service professions,"44.00. Human services, general",58900.00,120
+Bachelor's degree,4,44. Public administration and social service professions,44.07. Social work,56500.00,610
+Bachelor's degree,4,45. Social sciences,"45.01. Social sciences, general",43800.00,50
+Bachelor's degree,4,45. Social sciences,45.02. Anthropology,44300.00,270
+Bachelor's degree,4,45. Social sciences,45.03. Archaeology,42600.00,80
+Bachelor's degree,4,45. Social sciences,45.04. Criminology,63800.00,220
+Bachelor's degree,4,45. Social sciences,45.06. Economics,59100.00,690
+Bachelor's degree,4,45. Social sciences,45.07. Geography and cartography,60900.00,260
+Bachelor's degree,4,45. Social sciences,45.09. International relations and national security studies,50500.00,150
+Bachelor's degree,4,45. Social sciences,45.10. Political science and government,51400.00,670
+Bachelor's degree,4,45. Social sciences,45.11. Sociology,51600.00,720
+Bachelor's degree,4,45. Social sciences,45.12. Urban studies/affairs,59500.00,90
+Bachelor's degree,4,50. Visual and performing arts,50.04. Design and applied arts,43800.00,440
+Bachelor's degree,4,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,31300.00,200
+Bachelor's degree,4,50. Visual and performing arts,50.06. Film/video and photographic arts,34400.00,90
+Bachelor's degree,4,50. Visual and performing arts,50.07. Fine arts and art studies,36200.00,580
+Bachelor's degree,4,50. Visual and performing arts,50.09. Music,41000.00,120
+Bachelor's degree,4,51. Health professions and related programs,"51.00. Health services/allied health/health sciences, general",57000.00,40
+Bachelor's degree,4,51. Health professions and related programs,51.06. Dental support services and allied professions,78000.00,120
+Bachelor's degree,4,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,79600.00,80
+Bachelor's degree,4,51. Health professions and related programs,51.15. Mental and social health services and allied professions,52400.00,100
+Bachelor's degree,4,51. Health professions and related programs,51.22. Public health,60900.00,120
+Bachelor's degree,4,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",76900.00,6390
+Bachelor's degree,4,"52. Business, management, marketing and related support services","52.01. Business/commerce, general",72900.00,2210
+Bachelor's degree,4,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",60600.00,2330
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.03. Accounting and related services,69900.00,2770
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.06. Business/managerial economics,59600.00,160
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,71300.00,800
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,53200.00,50
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.10. Human resources management and services,66000.00,660
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.11. International business/trade/commerce,60300.00,360
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.12. Management information systems and services,63000.00,60
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.13. Management sciences and quantitative methods,65200.00,90
+Bachelor's degree,4,"52. Business, management, marketing and related support services",52.14. Marketing,60100.00,650
+Bachelor's degree,4,54. History,54.01. History,47700.00,550
+Bachelor's degree,4,55. French language and literature/lettersCAN,"55.01. French language and literature, generalCAN",49300.00,70
+Professional bachelor's degree,4,22. Legal professions and studies,"22.01. Law (LLB, JD, BCL)",101500.00,990
+Professional bachelor's degree,4,51. Health professions and related programs,"51.04. Dentistry (DDS, DMD)",23500.00,80
+Professional bachelor's degree,4,51. Health professions and related programs,51.12. Medicine (MD),66600.00,270
+Professional bachelor's degree,4,51. Health professions and related programs,"51.20. Pharmacy, pharmaceutical sciences and administration",104400.00,450
+Professional bachelor's degree,4,51. Health professions and related programs,51.24. Veterinary medicine (DVM),73400.00,40
+Master's degree,4,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",60000.00,50
+Master's degree,4,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,84500.00,20
+Master's degree,4,03. Natural resources and conservation,03.01. Natural resources conservation and research,72900.00,80
+Master's degree,4,04. Architecture and related services,"04.02. Architecture (BArch, BA, BS, BSc, MArch, MA, MS, MSc, PhD)",60900.00,140
+Master's degree,4,04. Architecture and related services,"04.03. City/urban, community and regional planning",66700.00,50
+Master's degree,4,04. Architecture and related services,04.04. Environmental design/architecture,67800.00,30
+Master's degree,4,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",91600.00,110
+Master's degree,4,11. Computer and information sciences and support services,11.07. Computer science,86100.00,80
+Master's degree,4,13. Education,"13.01. Education, general",102800.00,310
+Master's degree,4,13. Education,13.04. Educational administration and supervision,99100.00,150
+Master's degree,4,13. Education,13.05. Educational/instructional media design,79400.00,110
+Master's degree,4,13. Education,"13.06. Educational assessment, evaluation and research",97300.00,510
+Master's degree,4,13. Education,"13.12. Teacher education and professional development, specific levels and methods",84000.00,170
+Master's degree,4,14. Engineering,14.07. Chemical engineering,114300.00,100
+Master's degree,4,14. Engineering,14.08. Civil engineering,88200.00,370
+Master's degree,4,14. Engineering,"14.10. Electrical, electronics and communications engineering",82300.00,200
+Master's degree,4,14. Engineering,14.18. Materials engineering,95500.00,60
+Master's degree,4,14. Engineering,14.19. Mechanical engineering,96400.00,220
+Master's degree,4,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",41000.00,40
+Master's degree,4,22. Legal professions and studies,22.02. Legal research and advanced professional studies (post-LLB/JD),113900.00,20
+Master's degree,4,23. English language and literature/letters,"23.01. English language and literature, general",45300.00,40
+Master's degree,4,25. Library science,25.01. Library science and administration,61900.00,160
+Master's degree,4,26. Biological and biomedical sciences,"26.01. Biology, general",59500.00,140
+Master's degree,4,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,59300.00,30
+Master's degree,4,26. Biological and biomedical sciences,26.12. Biotechnology,45100.00,20
+Master's degree,4,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,39700.00,20
+Master's degree,4,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,57700.00,80
+Master's degree,4,40. Physical sciences,40.05. Chemistry,64500.00,40
+Master's degree,4,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,90000.00,130
+Master's degree,4,42. Psychology,"42.01. Psychology, general",69400.00,60
+Master's degree,4,42. Psychology,"42.28. Clinical, counselling and applied psychology",70400.00,410
+Master's degree,4,44. Public administration and social service professions,44.07. Social work,72700.00,400
+Master's degree,4,45. Social sciences,45.06. Economics,90300.00,60
+Master's degree,4,45. Social sciences,45.07. Geography and cartography,61000.00,50
+Master's degree,4,45. Social sciences,45.10. Political science and government,71500.00,50
+Master's degree,4,45. Social sciences,45.11. Sociology,59700.00,50
+Master's degree,4,50. Visual and performing arts,50.04. Design and applied arts,58400.00,30
+Master's degree,4,50. Visual and performing arts,50.09. Music,38800.00,20
+Master's degree,4,51. Health professions and related programs,51.02. Communication disorders sciences and services,66400.00,150
+Master's degree,4,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",56400.00,90
+Master's degree,4,51. Health professions and related programs,51.22. Public health,77500.00,210
+Master's degree,4,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,72700.00,530
+Master's degree,4,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",94600.00,910
+Master's degree,4,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",115800.00,1530
+Master's degree,4,"52. Business, management, marketing and related support services",52.10. Human resources management and services,88200.00,60
+Master's degree,4,54. History,54.01. History,49200.00,40
+Doctoral degree,4,03. Natural resources and conservation,03.01. Natural resources conservation and research,66200.00,30
+Doctoral degree,4,11. Computer and information sciences and support services,11.07. Computer science,89500.00,60
+Doctoral degree,4,13. Education,"13.01. Education, general",100200.00,40
+Doctoral degree,4,13. Education,"13.06. Educational assessment, evaluation and research",89400.00,40
+Doctoral degree,4,13. Education,"13.12. Teacher education and professional development, specific levels and methods",88900.00,50
+Doctoral degree,4,14. Engineering,14.07. Chemical engineering,128800.00,20
+Doctoral degree,4,14. Engineering,14.08. Civil engineering,99600.00,110
+Doctoral degree,4,14. Engineering,"14.10. Electrical, electronics and communications engineering",80800.00,120
+Doctoral degree,4,14. Engineering,14.18. Materials engineering,98300.00,60
+Doctoral degree,4,14. Engineering,14.19. Mechanical engineering,82900.00,40
+Doctoral degree,4,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",22100.00,20
+Doctoral degree,4,23. English language and literature/letters,"23.01. English language and literature, general",64600.00,30
+Doctoral degree,4,26. Biological and biomedical sciences,"26.01. Biology, general",54500.00,90
+Doctoral degree,4,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,53100.00,50
+Doctoral degree,4,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",64100.00,20
+Doctoral degree,4,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,54600.00,30
+Doctoral degree,4,27. Mathematics and statistics,27.05. Statistics,84200.00,30
+Doctoral degree,4,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,79000.00,30
+Doctoral degree,4,40. Physical sciences,40.05. Chemistry,63900.00,140
+Doctoral degree,4,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,78800.00,40
+Doctoral degree,4,42. Psychology,"42.01. Psychology, general",76600.00,30
+Doctoral degree,4,42. Psychology,"42.28. Clinical, counselling and applied psychology",79000.00,30
+Doctoral degree,4,45. Social sciences,45.11. Sociology,86700.00,20
+Doctoral degree,4,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",68600.00,90
+Doctoral degree,4,51. Health professions and related programs,51.22. Public health,93000.00,50
+Doctoral degree,4,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",103200.00,50
+Doctoral degree,4,54. History,54.01. History,76100.00,30
+Certificate,5,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,28300.00,30
+Certificate,5,"01. Agriculture, agriculture operations and related sciences",01.02. Agricultural mechanization,46600.00,100
+Certificate,5,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,35800.00,40
+Certificate,5,03. Natural resources and conservation,03.01. Natural resources conservation and research,45700.00,30
+Certificate,5,10. Communications technologies/technicians and support services,10.03. Graphic communications,38000.00,90
+Certificate,5,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",39400.00,30
+Certificate,5,11. Computer and information sciences and support services,11.08. Computer software and media applications,45100.00,80
+Certificate,5,11. Computer and information sciences and support services,11.09. Computer systems networking and telecommunications,52500.00,80
+Certificate,5,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,54600.00,170
+Certificate,5,12. Personal and culinary services,12.03. Funeral service and mortuary science,39000.00,20
+Certificate,5,12. Personal and culinary services,12.04. Cosmetology and related personal grooming services,27100.00,40
+Certificate,5,12. Personal and culinary services,12.05. Culinary arts and related services,34800.00,350
+Certificate,5,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,62900.00,170
+Certificate,5,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,56800.00,150
+Certificate,5,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,86100.00,100
+Certificate,5,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,53600.00,90
+Certificate,5,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,59000.00,70
+Certificate,5,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,51500.00,110
+Certificate,5,"16. Aboriginal and foreign languages, literatures and linguistics",16.16. Sign language,30900.00,20
+Certificate,5,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",23100.00,580
+Certificate,5,22. Legal professions and studies,22.03. Legal support services,43300.00,60
+Certificate,5,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",40400.00,30
+Certificate,5,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,39100.00,100
+Certificate,5,43. Security and protective services,43.01. Criminal justice and corrections,46900.00,60
+Certificate,5,43. Security and protective services,43.02. Fire protection,70000.00,620
+Certificate,5,43. Security and protective services,"43.99. Security and protective services, other",59100.00,90
+Certificate,5,46. Construction trades,"46.00. Construction trades, general",63700.00,20
+Certificate,5,46. Construction trades,46.02. Carpentry/carpenter,47500.00,120
+Certificate,5,46. Construction trades,46.03. Electrical and power transmission installers,52400.00,360
+Certificate,5,46. Construction trades,"46.04. Building/construction finishing, management and inspection",26300.00,40
+Certificate,5,46. Construction trades,46.05. Plumbing and related water supply services,47900.00,140
+Certificate,5,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,72500.00,280
+Certificate,5,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,101000.00,1070
+Certificate,5,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,46800.00,570
+Certificate,5,48. Precision production,48.05. Precision metal working,46200.00,260
+Certificate,5,48. Precision production,48.07. Woodworking,43600.00,200
+Certificate,5,49. Transportation and materials moving,49.02. Ground transportation,46500.00,230
+Certificate,5,50. Visual and performing arts,50.04. Design and applied arts,34700.00,120
+Certificate,5,50. Visual and performing arts,"50.10. Arts, entertainment, and media management",41300.00,50
+Certificate,5,51. Health professions and related programs,51.06. Dental support services and allied professions,47400.00,420
+Certificate,5,51. Health professions and related programs,51.07. Health and medical administrative services,39100.00,1550
+Certificate,5,51. Health professions and related programs,51.08. Allied health and medical assisting services,45200.00,2710
+Certificate,5,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",46600.00,260
+Certificate,5,51. Health professions and related programs,51.15. Mental and social health services and allied professions,39000.00,60
+Certificate,5,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,58300.00,100
+Certificate,5,51. Health professions and related programs,51.26. Health aides/attendants/orderlies,37000.00,3740
+Certificate,5,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",78200.00,300
+Certificate,5,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",56000.00,50
+Certificate,5,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",42700.00,290
+Certificate,5,"52. Business, management, marketing and related support services",52.03. Accounting and related services,48600.00,570
+Certificate,5,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,38300.00,1350
+Certificate,5,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,40000.00,40
+Certificate,5,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,35600.00,50
+Certificate,5,"52. Business, management, marketing and related support services",52.10. Human resources management and services,48700.00,270
+Certificate,5,"52. Business, management, marketing and related support services",52.14. Marketing,35800.00,30
+Certificate,5,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",34700.00,90
+Diploma,5,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,48100.00,80
+Diploma,5,"01. Agriculture, agriculture operations and related sciences",01.03. Agricultural production operations,43500.00,110
+Diploma,5,"01. Agriculture, agriculture operations and related sciences",01.05. Agricultural and domestic animal services,38300.00,50
+Diploma,5,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,46900.00,140
+Diploma,5,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,38600.00,70
+Diploma,5,"01. Agriculture, agriculture operations and related sciences",01.11. Plant sciences,35300.00,40
+Diploma,5,03. Natural resources and conservation,03.01. Natural resources conservation and research,50100.00,240
+Diploma,5,03. Natural resources and conservation,03.02. Natural resources management and policy,45900.00,290
+Diploma,5,03. Natural resources and conservation,03.05. Forestry,62400.00,80
+Diploma,5,03. Natural resources and conservation,03.06. Wildlife and wildlands science and management,48200.00,40
+Diploma,5,04. Architecture and related services,"04.06. Landscape architecture (BS, BSc, BSLA, BLA, MSLA, MLA, PhD)",56000.00,80
+Diploma,5,04. Architecture and related services,04.09. Architectural sciences and technology,54300.00,590
+Diploma,5,"09. Communication, journalism and related programs",09.04. Journalism,40000.00,290
+Diploma,5,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",46500.00,520
+Diploma,5,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",51300.00,180
+Diploma,5,10. Communications technologies/technicians and support services,10.01. Communications technology/technician,45800.00,120
+Diploma,5,10. Communications technologies/technicians and support services,10.02. Audiovisual communications technologies/technicians,43300.00,170
+Diploma,5,10. Communications technologies/technicians and support services,10.03. Graphic communications,39900.00,200
+Diploma,5,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",48400.00,110
+Diploma,5,11. Computer and information sciences and support services,11.08. Computer software and media applications,40300.00,150
+Diploma,5,11. Computer and information sciences and support services,11.10. Computer/information technology administration and management,64200.00,120
+Diploma,5,12. Personal and culinary services,12.05. Culinary arts and related services,37000.00,570
+Diploma,5,13. Education,13.10. Special education and teaching,79900.00,20
+Diploma,5,13. Education,13.15. Teaching assistants/aides,31700.00,50
+Diploma,5,15. Engineering technologies and engineering-related fields,15.02. Civil engineering technology/technician,70300.00,450
+Diploma,5,15. Engineering technologies and engineering-related fields,15.03. Electrical and electronic engineering technologies/technicians,73100.00,620
+Diploma,5,15. Engineering technologies and engineering-related fields,15.04. Electromechanical and instrumentation and maintenance technologies/technicians,83300.00,630
+Diploma,5,15. Engineering technologies and engineering-related fields,15.05. Environmental control technologies/technicians,55100.00,210
+Diploma,5,15. Engineering technologies and engineering-related fields,15.06. Industrial production technologies/technicians,98600.00,50
+Diploma,5,15. Engineering technologies and engineering-related fields,15.07. Quality control and safety technologies/technicians,76000.00,110
+Diploma,5,15. Engineering technologies and engineering-related fields,15.08. Mechanical engineering related technologies/technicians,67300.00,390
+Diploma,5,15. Engineering technologies and engineering-related fields,15.09. Mining and petroleum technologies/technicians,80600.00,420
+Diploma,5,15. Engineering technologies and engineering-related fields,15.10. Construction engineering technology/technician,80200.00,200
+Diploma,5,15. Engineering technologies and engineering-related fields,15.11. Engineering-related technologies,64700.00,170
+Diploma,5,15. Engineering technologies and engineering-related fields,15.12. Computer engineering technologies/technicians,60300.00,550
+Diploma,5,15. Engineering technologies and engineering-related fields,15.13. Drafting/design engineering technologies/technicians,55400.00,440
+Diploma,5,15. Engineering technologies and engineering-related fields,"15.99. Engineering technologies and engineering-related fields, other",70000.00,270
+Diploma,5,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",36400.00,630
+Diploma,5,22. Legal professions and studies,22.03. Legal support services,45800.00,600
+Diploma,5,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,45800.00,60
+Diploma,5,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",31900.00,150
+Diploma,5,25. Library science,25.03. Library and archives assisting,37700.00,80
+Diploma,5,25. Library science,"25.99. Library science, other",45500.00,80
+Diploma,5,"31. Parks, recreation, leisure and fitness studies","31.01. Parks, recreation and leisure studies",35200.00,20
+Diploma,5,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,39700.00,270
+Diploma,5,41. Science technologies/technicians,41.01. Biology technician/biotechnology laboratory technician,45400.00,40
+Diploma,5,41. Science technologies/technicians,41.03. Physical science technologies/technicians,55600.00,220
+Diploma,5,43. Security and protective services,43.01. Criminal justice and corrections,53300.00,960
+Diploma,5,43. Security and protective services,43.02. Fire protection,87800.00,30
+Diploma,5,47. Mechanic and repair technologies/technicians,47.03. Heavy/industrial equipment maintenance technologies,96900.00,100
+Diploma,5,47. Mechanic and repair technologies/technicians,47.05. Stationary energy sources installer and operatorCAN,175800.00,300
+Diploma,5,47. Mechanic and repair technologies/technicians,47.06. Vehicle maintenance and repair technologies,57000.00,410
+Diploma,5,48. Precision production,48.05. Precision metal working,82100.00,50
+Diploma,5,48. Precision production,48.08. Boilermaking/boilermaker,131200.00,180
+Diploma,5,49. Transportation and materials moving,49.01. Air transportation,48900.00,60
+Diploma,5,50. Visual and performing arts,"50.01. Visual, digital and performing arts, general",36600.00,40
+Diploma,5,50. Visual and performing arts,50.04. Design and applied arts,40600.00,520
+Diploma,5,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,34900.00,150
+Diploma,5,50. Visual and performing arts,50.06. Film/video and photographic arts,42700.00,80
+Diploma,5,50. Visual and performing arts,50.07. Fine arts and art studies,27500.00,50
+Diploma,5,50. Visual and performing arts,50.09. Music,30400.00,100
+Diploma,5,51. Health professions and related programs,51.02. Communication disorders sciences and services,61200.00,180
+Diploma,5,51. Health professions and related programs,51.06. Dental support services and allied professions,48600.00,170
+Diploma,5,51. Health professions and related programs,51.07. Health and medical administrative services,63900.00,50
+Diploma,5,51. Health professions and related programs,51.08. Allied health and medical assisting services,41800.00,900
+Diploma,5,51. Health professions and related programs,"51.09. Allied health diagnostic, intervention and treatment professions",81000.00,1100
+Diploma,5,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,70100.00,390
+Diploma,5,51. Health professions and related programs,51.15. Mental and social health services and allied professions,34500.00,160
+Diploma,5,51. Health professions and related programs,51.18. Ophthalmic and optometric support services and allied professions,46700.00,450
+Diploma,5,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,36500.00,30
+Diploma,5,51. Health professions and related programs,51.33. Alternative and complementary medicine and medical systems,32400.00,80
+Diploma,5,51. Health professions and related programs,51.35. Somatic bodywork and related therapeutic services,26200.00,90
+Diploma,5,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",76800.00,280
+Diploma,5,51. Health professions and related programs,"51.39. Practical nursing, vocational nursing and nursing assistants",44700.00,2590
+Diploma,5,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",48000.00,1240
+Diploma,5,"52. Business, management, marketing and related support services",52.03. Accounting and related services,43600.00,1930
+Diploma,5,"52. Business, management, marketing and related support services",52.04. Business operations support and assistant services,41800.00,270
+Diploma,5,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,50600.00,510
+Diploma,5,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,38900.00,430
+Diploma,5,"52. Business, management, marketing and related support services",52.10. Human resources management and services,52300.00,450
+Diploma,5,"52. Business, management, marketing and related support services",52.14. Marketing,48400.00,740
+Diploma,5,"52. Business, management, marketing and related support services",52.15. Real estate,69500.00,50
+Diploma,5,"52. Business, management, marketing and related support services",52.17. Insurance,60200.00,90
+Diploma,5,"52. Business, management, marketing and related support services","52.19. Specialized sales, merchandising and marketing operations",38000.00,200
+Diploma,5,"52. Business, management, marketing and related support services",52.20. Construction management,67500.00,100
+Diploma,5,"52. Business, management, marketing and related support services","52.99. Business, management, marketing and related support services, other",58800.00,110
+Bachelor's degree,5,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",67700.00,50
+Bachelor's degree,5,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,63100.00,50
+Bachelor's degree,5,"01. Agriculture, agriculture operations and related sciences",01.06. Applied horticulture/horticultural business services,56400.00,20
+Bachelor's degree,5,"01. Agriculture, agriculture operations and related sciences",01.09. Animal sciences,62100.00,60
+Bachelor's degree,5,03. Natural resources and conservation,03.01. Natural resources conservation and research,58900.00,260
+Bachelor's degree,5,03. Natural resources and conservation,03.02. Natural resources management and policy,68200.00,250
+Bachelor's degree,5,"05. Area, ethnic, cultural, gender, and group studies",05.01. Area studies,41100.00,50
+Bachelor's degree,5,"05. Area, ethnic, cultural, gender, and group studies","05.02. Ethnic, cultural minority, gender, and group studies",48400.00,100
+Bachelor's degree,5,"09. Communication, journalism and related programs",09.01. Communication and media studies,54400.00,490
+Bachelor's degree,5,"09. Communication, journalism and related programs",09.04. Journalism,53300.00,100
+Bachelor's degree,5,"09. Communication, journalism and related programs","09.07. Radio, television and digital communication",47700.00,30
+Bachelor's degree,5,"09. Communication, journalism and related programs","09.09. Public relations, advertising and applied communication",62600.00,100
+Bachelor's degree,5,10. Communications technologies/technicians and support services,10.03. Graphic communications,51600.00,50
+Bachelor's degree,5,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",74000.00,330
+Bachelor's degree,5,11. Computer and information sciences and support services,11.07. Computer science,70100.00,530
+Bachelor's degree,5,13. Education,"13.01. Education, general",49800.00,230
+Bachelor's degree,5,13. Education,"13.02. Bilingual, multilingual and multicultural education",71200.00,20
+Bachelor's degree,5,13. Education,"13.06. Educational assessment, evaluation and research",90000.00,30
+Bachelor's degree,5,13. Education,"13.12. Teacher education and professional development, specific levels and methods",62900.00,4430
+Bachelor's degree,5,13. Education,"13.13. Teacher education and professional development, specific subject areas",66800.00,2760
+Bachelor's degree,5,14. Engineering,14.05. Bioengineering and biomedical engineering,81300.00,60
+Bachelor's degree,5,14. Engineering,14.07. Chemical engineering,103000.00,680
+Bachelor's degree,5,14. Engineering,14.08. Civil engineering,84300.00,760
+Bachelor's degree,5,14. Engineering,14.09. Computer engineering,75100.00,240
+Bachelor's degree,5,14. Engineering,"14.10. Electrical, electronics and communications engineering",85400.00,670
+Bachelor's degree,5,14. Engineering,14.12. Engineering physics/applied physics,71000.00,30
+Bachelor's degree,5,14. Engineering,14.14. Environmental/environmental health engineering,82000.00,110
+Bachelor's degree,5,14. Engineering,14.18. Materials engineering,95300.00,120
+Bachelor's degree,5,14. Engineering,14.19. Mechanical engineering,93600.00,1120
+Bachelor's degree,5,14. Engineering,14.21. Mining and mineral engineering,114600.00,110
+Bachelor's degree,5,14. Engineering,14.25. Petroleum engineering,110000.00,220
+Bachelor's degree,5,14. Engineering,14.38. Surveying engineering,84500.00,130
+Bachelor's degree,5,15. Engineering technologies and engineering-related fields,15.15. Engineering-related fields,80400.00,120
+Bachelor's degree,5,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",47400.00,100
+Bachelor's degree,5,"16. Aboriginal and foreign languages, literatures and linguistics","16.03. East Asian languages, literatures and linguistics",44600.00,40
+Bachelor's degree,5,"16. Aboriginal and foreign languages, literatures and linguistics","16.09. Romance languages, literatures and linguistics",38900.00,40
+Bachelor's degree,5,19. Family and consumer sciences/human sciences,"19.05. Foods, nutrition and related services",53300.00,100
+Bachelor's degree,5,19. Family and consumer sciences/human sciences,"19.07. Human development, family studies and related services",48500.00,220
+Bachelor's degree,5,22. Legal professions and studies,"22.99. Legal professions and studies, other",57100.00,100
+Bachelor's degree,5,23. English language and literature/letters,"23.01. English language and literature, general",45300.00,780
+Bachelor's degree,5,23. English language and literature/letters,23.13. English rhetoric and composition/writing studies,54900.00,140
+Bachelor's degree,5,"24. Liberal arts and sciences, general studies and humanities","24.01. Liberal arts and sciences, general studies and humanities",55200.00,980
+Bachelor's degree,5,26. Biological and biomedical sciences,"26.01. Biology, general",53500.00,1240
+Bachelor's degree,5,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,48400.00,70
+Bachelor's degree,5,26. Biological and biomedical sciences,26.04. Cell/cellular biology and anatomical sciences,51800.00,80
+Bachelor's degree,5,26. Biological and biomedical sciences,26.05. Microbiological sciences and immunology,59700.00,70
+Bachelor's degree,5,26. Biological and biomedical sciences,26.07. Zoology/animal biology,44800.00,120
+Bachelor's degree,5,26. Biological and biomedical sciences,26.08. Genetics,72200.00,20
+Bachelor's degree,5,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",57100.00,30
+Bachelor's degree,5,26. Biological and biomedical sciences,"26.13. Ecology, evolution, systematics and population biology",57500.00,190
+Bachelor's degree,5,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,54400.00,50
+Bachelor's degree,5,27. Mathematics and statistics,27.01. Mathematics,63800.00,150
+Bachelor's degree,5,30. Multidisciplinary/interdisciplinary studies,30.17. Behavioural sciences,49200.00,60
+Bachelor's degree,5,30. Multidisciplinary/interdisciplinary studies,30.18. Natural sciences,57600.00,130
+Bachelor's degree,5,30. Multidisciplinary/interdisciplinary studies,30.19. Nutrition sciences,76200.00,170
+Bachelor's degree,5,30. Multidisciplinary/interdisciplinary studies,"30.99. Multidisciplinary/interdisciplinary studies, other",56300.00,30
+Bachelor's degree,5,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,55900.00,980
+Bachelor's degree,5,38. Philosophy and religious studies,"38.01. Philosophy, logic and ethics",46000.00,150
+Bachelor's degree,5,40. Physical sciences,"40.01. Physical sciences, general",56500.00,50
+Bachelor's degree,5,40. Physical sciences,40.05. Chemistry,54300.00,230
+Bachelor's degree,5,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,68800.00,680
+Bachelor's degree,5,40. Physical sciences,40.08. Physics,53100.00,80
+Bachelor's degree,5,42. Psychology,"42.01. Psychology, general",50900.00,1920
+Bachelor's degree,5,42. Psychology,"42.28. Clinical, counselling and applied psychology",56900.00,50
+Bachelor's degree,5,43. Security and protective services,43.01. Criminal justice and corrections,63900.00,310
+Bachelor's degree,5,43. Security and protective services,"43.99. Security and protective services, other",119900.00,80
+Bachelor's degree,5,44. Public administration and social service professions,"44.00. Human services, general",56500.00,120
+Bachelor's degree,5,44. Public administration and social service professions,44.07. Social work,57000.00,650
+Bachelor's degree,5,45. Social sciences,"45.01. Social sciences, general",47100.00,60
+Bachelor's degree,5,45. Social sciences,45.02. Anthropology,48500.00,290
+Bachelor's degree,5,45. Social sciences,45.03. Archaeology,45500.00,110
+Bachelor's degree,5,45. Social sciences,45.04. Criminology,65100.00,230
+Bachelor's degree,5,45. Social sciences,45.06. Economics,60600.00,720
+Bachelor's degree,5,45. Social sciences,45.07. Geography and cartography,63400.00,270
+Bachelor's degree,5,45. Social sciences,45.09. International relations and national security studies,53300.00,170
+Bachelor's degree,5,45. Social sciences,45.10. Political science and government,56100.00,710
+Bachelor's degree,5,45. Social sciences,45.11. Sociology,54000.00,780
+Bachelor's degree,5,45. Social sciences,45.12. Urban studies/affairs,60000.00,110
+Bachelor's degree,5,50. Visual and performing arts,"50.01. Visual, digital and performing arts, general",41100.00,40
+Bachelor's degree,5,50. Visual and performing arts,50.03. Dance,15000.00,20
+Bachelor's degree,5,50. Visual and performing arts,50.04. Design and applied arts,45100.00,410
+Bachelor's degree,5,50. Visual and performing arts,50.05. Drama/theatre arts and stagecraft,37600.00,200
+Bachelor's degree,5,50. Visual and performing arts,50.06. Film/video and photographic arts,33300.00,110
+Bachelor's degree,5,50. Visual and performing arts,50.07. Fine arts and art studies,37500.00,560
+Bachelor's degree,5,50. Visual and performing arts,50.09. Music,43600.00,160
+Bachelor's degree,5,51. Health professions and related programs,"51.00. Health services/allied health/health sciences, general",57100.00,50
+Bachelor's degree,5,51. Health professions and related programs,51.06. Dental support services and allied professions,74000.00,120
+Bachelor's degree,5,51. Health professions and related programs,51.10. Clinical/medical laboratory science/research and allied professions,79300.00,80
+Bachelor's degree,5,51. Health professions and related programs,51.15. Mental and social health services and allied professions,53800.00,100
+Bachelor's degree,5,51. Health professions and related programs,51.22. Public health,60100.00,120
+Bachelor's degree,5,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",76200.00,6340
+Bachelor's degree,5,"52. Business, management, marketing and related support services","52.01. Business/commerce, general",77100.00,2200
+Bachelor's degree,5,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",64400.00,2480
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.03. Accounting and related services,74700.00,2760
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.06. Business/managerial economics,64300.00,180
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.08. Finance and financial management services,77700.00,800
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.09. Hospitality administration/management,49800.00,60
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.10. Human resources management and services,67000.00,650
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.11. International business/trade/commerce,60000.00,360
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.12. Management information systems and services,67300.00,40
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.13. Management sciences and quantitative methods,70500.00,100
+Bachelor's degree,5,"52. Business, management, marketing and related support services",52.14. Marketing,62400.00,670
+Bachelor's degree,5,54. History,54.01. History,52100.00,610
+Bachelor's degree,5,55. French language and literature/lettersCAN,"55.01. French language and literature, generalCAN",49900.00,100
+Professional bachelor's degree,5,22. Legal professions and studies,"22.01. Law (LLB, JD, BCL)",106000.00,1000
+Professional bachelor's degree,5,51. Health professions and related programs,"51.04. Dentistry (DDS, DMD)",46200.00,120
+Professional bachelor's degree,5,51. Health professions and related programs,51.12. Medicine (MD),54600.00,330
+Professional bachelor's degree,5,51. Health professions and related programs,"51.20. Pharmacy, pharmaceutical sciences and administration",103100.00,460
+Professional bachelor's degree,5,51. Health professions and related programs,51.24. Veterinary medicine (DVM),64600.00,30
+Master's degree,5,"01. Agriculture, agriculture operations and related sciences","01.00. Agriculture, general",63100.00,60
+Master's degree,5,"01. Agriculture, agriculture operations and related sciences",01.01. Agricultural business and management,86200.00,20
+Master's degree,5,03. Natural resources and conservation,03.01. Natural resources conservation and research,70500.00,90
+Master's degree,5,04. Architecture and related services,"04.02. Architecture (BArch, BA, BS, BSc, MArch, MA, MS, MSc, PhD)",64300.00,130
+Master's degree,5,04. Architecture and related services,"04.03. City/urban, community and regional planning",74200.00,50
+Master's degree,5,04. Architecture and related services,04.04. Environmental design/architecture,65000.00,30
+Master's degree,5,"09. Communication, journalism and related programs",09.01. Communication and media studies,66800.00,20
+Master's degree,5,11. Computer and information sciences and support services,"11.01. Computer and information sciences and support services, general",91000.00,110
+Master's degree,5,11. Computer and information sciences and support services,11.07. Computer science,93500.00,60
+Master's degree,5,13. Education,"13.01. Education, general",100100.00,320
+Master's degree,5,13. Education,13.04. Educational administration and supervision,96300.00,170
+Master's degree,5,13. Education,13.05. Educational/instructional media design,77800.00,110
+Master's degree,5,13. Education,"13.06. Educational assessment, evaluation and research",95700.00,530
+Master's degree,5,13. Education,"13.12. Teacher education and professional development, specific levels and methods",87300.00,180
+Master's degree,5,14. Engineering,14.07. Chemical engineering,105000.00,110
+Master's degree,5,14. Engineering,14.08. Civil engineering,88200.00,350
+Master's degree,5,14. Engineering,"14.10. Electrical, electronics and communications engineering",81400.00,190
+Master's degree,5,14. Engineering,14.18. Materials engineering,94500.00,50
+Master's degree,5,14. Engineering,14.19. Mechanical engineering,98400.00,230
+Master's degree,5,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",48500.00,30
+Master's degree,5,22. Legal professions and studies,22.02. Legal research and advanced professional studies (post-LLB/JD),129000.00,20
+Master's degree,5,23. English language and literature/letters,"23.01. English language and literature, general",49100.00,50
+Master's degree,5,25. Library science,25.01. Library science and administration,64100.00,150
+Master's degree,5,26. Biological and biomedical sciences,"26.01. Biology, general",62500.00,160
+Master's degree,5,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,58900.00,20
+Master's degree,5,26. Biological and biomedical sciences,26.12. Biotechnology,56900.00,30
+Master's degree,5,26. Biological and biomedical sciences,26.15. Neurobiology and neurosciences,49200.00,30
+Master's degree,5,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,61200.00,90
+Master's degree,5,40. Physical sciences,40.05. Chemistry,65900.00,40
+Master's degree,5,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,82200.00,140
+Master's degree,5,42. Psychology,"42.01. Psychology, general",53300.00,60
+Master's degree,5,42. Psychology,"42.28. Clinical, counselling and applied psychology",69300.00,410
+Master's degree,5,44. Public administration and social service professions,44.07. Social work,78000.00,400
+Master's degree,5,45. Social sciences,45.02. Anthropology,54100.00,40
+Master's degree,5,45. Social sciences,45.06. Economics,91700.00,70
+Master's degree,5,45. Social sciences,45.07. Geography and cartography,64400.00,50
+Master's degree,5,45. Social sciences,45.10. Political science and government,70700.00,50
+Master's degree,5,50. Visual and performing arts,50.04. Design and applied arts,64900.00,30
+Master's degree,5,50. Visual and performing arts,50.09. Music,48400.00,20
+Master's degree,5,51. Health professions and related programs,51.02. Communication disorders sciences and services,61200.00,140
+Master's degree,5,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",60400.00,90
+Master's degree,5,51. Health professions and related programs,51.22. Public health,78400.00,210
+Master's degree,5,51. Health professions and related programs,51.23. Rehabilitation and therapeutic professions,72000.00,530
+Master's degree,5,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",93900.00,890
+Master's degree,5,"52. Business, management, marketing and related support services","52.02. Business administration, management and operations",116300.00,1560
+Master's degree,5,"52. Business, management, marketing and related support services",52.10. Human resources management and services,91100.00,50
+Master's degree,5,54. History,54.01. History,47400.00,40
+Doctoral degree,5,03. Natural resources and conservation,03.01. Natural resources conservation and research,83400.00,20
+Doctoral degree,5,11. Computer and information sciences and support services,11.07. Computer science,91800.00,60
+Doctoral degree,5,13. Education,"13.01. Education, general",99800.00,40
+Doctoral degree,5,13. Education,"13.06. Educational assessment, evaluation and research",78200.00,50
+Doctoral degree,5,13. Education,"13.12. Teacher education and professional development, specific levels and methods",93400.00,50
+Doctoral degree,5,14. Engineering,14.07. Chemical engineering,132700.00,30
+Doctoral degree,5,14. Engineering,14.08. Civil engineering,103200.00,100
+Doctoral degree,5,14. Engineering,"14.10. Electrical, electronics and communications engineering",85700.00,120
+Doctoral degree,5,14. Engineering,14.18. Materials engineering,100200.00,60
+Doctoral degree,5,14. Engineering,14.19. Mechanical engineering,83800.00,50
+Doctoral degree,5,"16. Aboriginal and foreign languages, literatures and linguistics","16.01. Linguistic, comparative and related language studies and services",27100.00,30
+Doctoral degree,5,23. English language and literature/letters,"23.01. English language and literature, general",55400.00,30
+Doctoral degree,5,26. Biological and biomedical sciences,"26.01. Biology, general",58800.00,90
+Doctoral degree,5,26. Biological and biomedical sciences,26.02. Biochemistry/biophysics and molecular biology,55900.00,60
+Doctoral degree,5,26. Biological and biomedical sciences,"26.09. Physiology, pathology and related sciences",74500.00,30
+Doctoral degree,5,27. Mathematics and statistics,27.05. Statistics,87600.00,20
+Doctoral degree,5,"31. Parks, recreation, leisure and fitness studies",31.05. Health and physical education/fitness,67300.00,30
+Doctoral degree,5,40. Physical sciences,40.05. Chemistry,67600.00,120
+Doctoral degree,5,40. Physical sciences,40.06. Geological and Earth sciences/geosciences,80900.00,40
+Doctoral degree,5,42. Psychology,"42.01. Psychology, general",77900.00,40
+Doctoral degree,5,42. Psychology,"42.28. Clinical, counselling and applied psychology",76700.00,50
+Doctoral degree,5,45. Social sciences,45.11. Sociology,87100.00,40
+Doctoral degree,5,51. Health professions and related programs,"51.14. Medical scientist (MS, MSc, PhD)",66700.00,80
+Doctoral degree,5,51. Health professions and related programs,51.22. Public health,96200.00,30
+Doctoral degree,5,51. Health professions and related programs,"51.38. Registered nursing, nursing administration, nursing research and clinical nursing",102200.00,60
