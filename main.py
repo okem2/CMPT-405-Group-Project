@@ -1,9 +1,12 @@
 
 ##########################################
-# Name: Matthew Oke
+# Name: Matthew Oke, Keyanna Levie, Ian Leblanc, Wamiq Hussain
 # Project: CMPT450EndProject
 # Filename: main.py
 ##########################################
+
+# To run this program correctly, make sure all relevant data files submitted along with this main are present,
+# and then run the program. After loading, you will be given a server address to go to.
 
 import dash as ds
 import plotly as pl
@@ -12,20 +15,15 @@ import pandas as pn
 import dataPrep
 import dash_bootstrap_components as dbc
 import plotly.express as px
-
-######################
-# imports added by Ian#
-######################
 import geojson
 import plotly.graph_objects as go
 
+# Set up the app object that will house the application
 app = ds.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
-# app.config.suppress_callback_exceptions=True
 
 # Set up a color dictionary for use within dash components. FFFFFF is pure white, 111111 is pure black
 colors = {'background': '#FFFFFF',
           'text': '#111111'}
-
 
 ####################
 # files added by Ian#
@@ -40,10 +38,12 @@ nbs = pn.read_csv("coenb.csv", low_memory=False)
 nbcodes = nbs['Neighbourhood Number']
 nbnames = nbs['Descriptive Name']
 
-crimeGraph = pn.DataFrame({'Neighbourhood': ['Neighbourhood', 'Average'], 'Crime Occurences': [0, 67.069091]})
+crimeGraph = pn.DataFrame({'Neighbourhood': ['Neighbourhood', 'Average'], 'Crime Occurences': [0, 67]})
 
+# Set up the adjacent bar graph to the specific data to show the relative amount of crime in that neighbourhood
 crimeSpecificFig = px.bar(data_frame=crimeGraph, x='Neighbourhood', y='Crime Occurences', text_auto=True, width=600, height=400,title="Crime occurences in specified neighbourhood")
 
+# Set up the choropleth maps
 fig = go.Figure(go.Choroplethmapbox(geojson=gj, locations=cdf['nnum'], featureidkey="properties.neighbourhood_number", z=cdf['Assessed Value'], colorscale='Blues', colorbar=dict(title='Average Assessed Value'), marker_opacity=0.5, hovertext='Neighbourhood: ' + cdf['descname']),
     layout=dict(mapbox_style='carto-positron', width=600, height=525, mapbox_zoom=8.9, mapbox_center = {"lat": 53.54551, "lon": -113.49408}))
 
@@ -56,9 +56,9 @@ crimefig = go.Figure(go.Choroplethmapbox(geojson=gj, locations=crimedf['nnum'],f
 
 grad_sal = pn.read_csv("grad-data-trim.csv")
 drop_sal = grad_sal.groupby(["Field of Study (2-digit CIP code)"])["Median Income"].mean().reset_index()
-
 app.title = 'RealEdmonton'
 
+# Set up the layout object using all of the HTML components for the page
 app.layout = ds.html.Div(children=[ds.html.H1(style={'textAlign': 'center',
                                 'color': colors['text']}, children='RealEdmonton: Housing Made Easy'),
                                 ds.html.Br(),
@@ -102,20 +102,29 @@ app.layout = ds.html.Div(children=[ds.html.H1(style={'textAlign': 'center',
                                         id='salTable'
                                     ),
                                     ds.html.Br(),ds.html.Br()
-                                    
                                 ])
                                                                                   ])
+
+# The affordability function takes a salary as a parameter and then calculates an appropriate
+# mortgage amount, and then returns float that makrs the maximum recommended price of a house.
 
 def affordability(salary):
     top_mortgage = salary * 2.25
     top_house = (top_mortgage*25)/0.8
     return top_house
 
+# The get_salary fuction takes a name (The name of an occupation) as a parameter and returns a
+# salary.
+
 def get_salary(name):
     occupation = drop_sal[drop_sal['Field of Study (2-digit CIP code)'] == str(name)]
     salary = occupation["Median Income"]
     print('Salary:',salary)
     return int(salary)
+
+
+# The update_salary function uses callbacks to update the recommendation graph of properties.
+# It takes inputs from the search button, and the dropdown menu and manual salary input field.
 
 @app.callback(
     ds.Output('salTable', 'data'),
@@ -137,6 +146,10 @@ def update_salary(n_clicks, value, value2):
         return df.to_dict('records'), [{'name': i, 'id':i} for i in df.columns]
     return [{}], []
 
+
+# The updateGraph function updates the crime bar chart next to the specific neighbourhood
+# information whenever a new neighbourhood's information is brought up.
+
 @app.callback(
     ds.Output(component_id='crimeGraph', component_property='figure'),
     ds.Input(component_id='nName', component_property='children'),
@@ -146,13 +159,16 @@ def updateGraph(name): # Updates crime bar chart
     newCount = crimedf[crimedf['nname'] == name].iloc[0, 2]
 
     print(newCount)
-    fig = pn.DataFrame({'Neighbourhood': [name, 'Average'], 'Crime Occurrences': [newCount, 67.069091]})
+    fig = pn.DataFrame({'Neighbourhood': [name, 'Average'], 'Crime Occurrences': [newCount, 67]})
     newFigure = px.bar(data_frame=fig, x='Neighbourhood', y='Crime Occurrences', text_auto=True, width=600, height=400,
              title="Crime occurrences in specified neighbourhood")
 
     return newFigure
 
 
+# The update_figure function uses callbacks to send click information to the specific information
+# area. It uses context information to figure out which choropleth was clicked, and sends that
+# respective info to the specific area.
 
 @app.callback(
     ds.Output(component_id='searchInput', component_property='value'),
@@ -188,6 +204,10 @@ def update_figure(clickData, secondClickData): #Populates search bar when neighb
         else:
             return None
 
+
+# The update_table function uses callbacks and a function from dataPrep.py to update the
+# specific information on a neighbourhood and present it to the user. Whenever the search
+# button is pressed, it triggers the callback.
 
 @app.callback(
     ds.Output(component_id='nName', component_property='children'),
